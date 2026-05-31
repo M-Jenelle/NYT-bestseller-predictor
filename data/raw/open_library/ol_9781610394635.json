@@ -1,0 +1,36 @@
+{
+  "primary_isbn13": "9781610394635",
+  "ol_author_name": "Jack El-Hai",
+  "ol_publisher": "PublicAffairs",
+  "ol_languages": [
+    "fre",
+    "eng",
+    "spa"
+  ],
+  "ol_ebook_access": "borrowable",
+  "ol_has_fulltext": true,
+  "ol_public_scan": false,
+  "ol_internet_archive_ids": [
+    "lenazietlepsychi0000elha",
+    "nazipsychiatrist0000elha_p9n1"
+  ],
+  "ol_edition_count": 11,
+  "ol_number_of_pages": 304,
+  "is_series": false,
+  "series_name": null,
+  "author_total_works": 11,
+  "author_birth_date": "1958",
+  "ol_subjects": [
+    "Psicolog\u00eda",
+    "Psychology",
+    "War criminals",
+    "Psiquiatras",
+    "Biography",
+    "Criminales de guerra",
+    "Nuremberg War Crime Trials, Nuremberg, Germany, 1946-1949",
+    "Nuremberg Trial of Major German War Criminals, Nuremberg, Germany, 1945-1946",
+    "Psychiatrists",
+    "Nazis"
+  ],
+  "ol_first_publish_year": 2013
+}

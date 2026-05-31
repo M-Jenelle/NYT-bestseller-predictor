@@ -1,0 +1,38 @@
+{
+  "primary_isbn13": "9781101934746",
+  "ol_author_name": "Kathleen Glasgow",
+  "ol_publisher": "Random House Children's Books",
+  "ol_languages": [
+    "ger",
+    "eng",
+    "tur",
+    "spa",
+    "por",
+    "fre"
+  ],
+  "ol_ebook_access": "printdisabled",
+  "ol_has_fulltext": true,
+  "ol_public_scan": false,
+  "ol_internet_archive_ids": [
+    "girlinpieces0000glas_e1a9"
+  ],
+  "ol_edition_count": 28,
+  "ol_number_of_pages": 448,
+  "is_series": false,
+  "series_name": null,
+  "author_total_works": 12,
+  "author_birth_date": "1969",
+  "ol_subjects": [
+    "Children's fiction",
+    "Emotions, fiction",
+    "Survival, fiction",
+    "Homeless persons, fiction",
+    "Child sexual abuse, fiction",
+    "Self-mutilation, fiction",
+    "Emotional problems",
+    "Survival",
+    "Abandoned children",
+    "Fiction"
+  ],
+  "ol_first_publish_year": 2000
+}

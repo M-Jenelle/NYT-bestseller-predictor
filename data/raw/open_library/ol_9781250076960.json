@@ -1,0 +1,46 @@
+{
+  "primary_isbn13": "9781250076960",
+  "ol_author_name": "Leigh Bardugo",
+  "ol_publisher": "Square Fish",
+  "ol_languages": [
+    "tur",
+    "rus",
+    "fre",
+    "eng",
+    "ger",
+    "por",
+    "ukr"
+  ],
+  "ol_ebook_access": "printdisabled",
+  "ol_has_fulltext": true,
+  "ol_public_scan": false,
+  "ol_internet_archive_ids": [
+    "sixofcrows0000leig",
+    "sixofcrows0000bard_i3c5",
+    "sixofcrows0000bard"
+  ],
+  "ol_edition_count": 37,
+  "ol_number_of_pages": 496,
+  "is_series": true,
+  "series_name": {
+    "series": {
+      "key": "/series/OL331108L"
+    },
+    "position": "1"
+  },
+  "author_total_works": 40,
+  "author_birth_date": "6 Apr 1975",
+  "ol_subjects": [
+    "Young adult fiction",
+    "Fantasy fiction",
+    "Fiction",
+    "Young adult works",
+    "Juvenile works",
+    "Science fiction",
+    "Juvenile fiction",
+    "LGBTQ novels",
+    "YA fiction",
+    "mystery"
+  ],
+  "ol_first_publish_year": 2015
+}

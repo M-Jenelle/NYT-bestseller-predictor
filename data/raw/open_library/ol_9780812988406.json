@@ -1,0 +1,35 @@
+{
+  "primary_isbn13": "9780812988406",
+  "ol_author_name": "Paul Kalanithi",
+  "ol_publisher": "Random House",
+  "ol_languages": [
+    "eng"
+  ],
+  "ol_ebook_access": "printdisabled",
+  "ol_has_fulltext": true,
+  "ol_public_scan": false,
+  "ol_internet_archive_ids": [
+    "elbuendoctor0000kala",
+    "whenbreathbecome0000kala",
+    "whenbreathbecome0000kala_x2i8"
+  ],
+  "ol_edition_count": 35,
+  "ol_number_of_pages": 256,
+  "is_series": false,
+  "series_name": null,
+  "author_total_works": 1,
+  "author_birth_date": "1 Apr 1977",
+  "ol_subjects": [
+    "philosophy",
+    "Neurosurgeons",
+    "Cancer",
+    "Lungs",
+    "Husband and wife",
+    "Patients",
+    "Personal Memoirs",
+    "Health",
+    "Biography",
+    "BIOGRAPHY & AUTOBIOGRAPHY"
+  ],
+  "ol_first_publish_year": 2016
+}

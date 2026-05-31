@@ -1,0 +1,28 @@
+{
+  "primary_isbn13": "9781974710027",
+  "ol_author_name": "Gege Akutami",
+  "ol_publisher": "VIZ Media LLC",
+  "ol_languages": [
+    "eng"
+  ],
+  "ol_ebook_access": "no_ebook",
+  "ol_has_fulltext": false,
+  "ol_public_scan": false,
+  "ol_internet_archive_ids": [],
+  "ol_edition_count": 2,
+  "ol_number_of_pages": 192,
+  "is_series": true,
+  "series_name": {
+    "series": {
+      "key": "/series/OL329604L"
+    },
+    "position": "1"
+  },
+  "author_total_works": 42,
+  "author_birth_date": "1992-02-26",
+  "ol_subjects": [
+    "nyt:graphic-books-and-manga=2021-02-07",
+    "New York Times bestseller"
+  ],
+  "ol_first_publish_year": 2019
+}

@@ -1,0 +1,7 @@
+primary_isbn13,ol_author_name,ol_publisher,ol_languages,ol_ebook_access,ol_has_fulltext,ol_public_scan,ol_internet_archive_ids,ol_edition_count,ol_number_of_pages,is_series,series_name,author_total_works,author_birth_date,ol_subjects,ol_first_publish_year
+9780593820247,Matt Dinniman,Ace,['eng'],no_ebook,False,False,[],10,465.0,True,series:Dungeon Crawler Carl,25,,"['series:Dungeon Crawler Carl', 'genre:LitRPG', 'genre:science fantasy']",2020
+9780358272441,Alice Schertle,Houghton Mifflin Harcourt Publishing Company,['eng'],no_ebook,False,False,[],2,,False,,100,,"['nyt:picture-books=2021-01-17', 'New York Times bestseller', ""Children's fiction"", 'Trucks, fiction', 'Domestic animals, fiction', ""Valentine's day, fiction""]",2020
+9781640635333,Rebecca Yarros,Entangled: Amara,"['dut', 'eng']",no_ebook,False,False,[],7,432.0,False,,36,14 april 1981,"['Fiction, romance, general']",2019
+9781630062927,Lucas Miles,Humanix Books,['eng'],no_ebook,False,False,[],2,256.0,False,,4,,"['Religion', 'Political science']",2025
+9781728256184,Sourcebooks,"Sourcebooks, Incorporated",['eng'],no_ebook,False,False,[],1,400.0,False,,100,,[],2025
+9781546171461,Suzanne Collins,Scholastic,['eng'],no_ebook,False,False,[],10,382.0,False,,43,,[],2025

@@ -1,0 +1,28 @@
+{
+  "primary_isbn13": "9780759555402",
+  "ol_author_name": "Jennifer Lynn Barnes",
+  "ol_publisher": "Little Brown Books For Young Readers",
+  "ol_languages": [
+    "eng"
+  ],
+  "ol_ebook_access": "no_ebook",
+  "ol_has_fulltext": false,
+  "ol_public_scan": false,
+  "ol_internet_archive_ids": [],
+  "ol_edition_count": 15,
+  "ol_number_of_pages": 400,
+  "is_series": false,
+  "series_name": null,
+  "author_total_works": 100,
+  "author_birth_date": null,
+  "ol_subjects": [
+    "Children's fiction",
+    "nyt:young-adult-hardcover=2020-09-20",
+    "New York Times bestseller",
+    "Young adult fiction, social themes, class differences",
+    "Young adult fiction, romance, contemporary",
+    "Young adult fiction, thrillers & suspense, general",
+    "Young adult fiction, mysteries & detective stories"
+  ],
+  "ol_first_publish_year": 2020
+}

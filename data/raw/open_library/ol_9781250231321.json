@@ -1,0 +1,34 @@
+{
+  "primary_isbn13": "9781250231321",
+  "ol_author_name": "Rick Atkinson",
+  "ol_publisher": "Holt Paperbacks",
+  "ol_languages": [
+    "eng"
+  ],
+  "ol_ebook_access": "printdisabled",
+  "ol_has_fulltext": true,
+  "ol_public_scan": false,
+  "ol_internet_archive_ids": [
+    "britisharecoming0000atki",
+    "britisharecoming0000atki_s3x8",
+    "britisharecoming0000rick"
+  ],
+  "ol_edition_count": 12,
+  "ol_number_of_pages": 800,
+  "is_series": false,
+  "series_name": null,
+  "author_total_works": 18,
+  "author_birth_date": "November 16, 1952",
+  "ol_subjects": [
+    "United states, history, revolution, 1775-1783, campaigns",
+    "nyt:combined-print-and-e-book-nonfiction=2019-06-02",
+    "New York Times bestseller",
+    "New York Times reviewed",
+    "United states, history, revolution, 1775-1783, british forces",
+    "History",
+    "Campaigns",
+    "Military campaigns",
+    "American Revolution (1775-1783) fast (OCoLC)fst01351668"
+  ],
+  "ol_first_publish_year": 2019
+}

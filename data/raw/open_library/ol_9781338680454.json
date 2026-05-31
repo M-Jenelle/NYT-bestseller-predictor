@@ -1,0 +1,34 @@
+{
+  "primary_isbn13": "9781338680454",
+  "ol_author_name": "Dav Pilkey",
+  "ol_publisher": "Scholastic",
+  "ol_languages": [
+    "eng",
+    "pol",
+    "spa"
+  ],
+  "ol_ebook_access": "no_ebook",
+  "ol_has_fulltext": false,
+  "ol_public_scan": false,
+  "ol_internet_archive_ids": [],
+  "ol_edition_count": 17,
+  "ol_number_of_pages": null,
+  "is_series": true,
+  "series_name": {
+    "series": {
+      "key": "/series/OL329664L"
+    },
+    "position": "10"
+  },
+  "author_total_works": 100,
+  "author_birth_date": "4 March 1966",
+  "ol_subjects": [
+    "Comic books, strips, etc.",
+    "Dogs, fiction",
+    "Humorous stories",
+    "nyt:graphic-books-and-manga=2021-04-11",
+    "New York Times bestseller",
+    "Children's fiction"
+  ],
+  "ol_first_publish_year": 2021
+}

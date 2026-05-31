@@ -1,0 +1,29 @@
+{
+  "primary_isbn13": "9780593374238",
+  "ol_author_name": "Holly Jackson",
+  "ol_publisher": "Random House Children's Books",
+  "ol_languages": [
+    "eng"
+  ],
+  "ol_ebook_access": null,
+  "ol_has_fulltext": null,
+  "ol_public_scan": null,
+  "ol_internet_archive_ids": [],
+  "ol_edition_count": null,
+  "ol_number_of_pages": 464,
+  "is_series": false,
+  "series_name": null,
+  "author_total_works": 10,
+  "author_birth_date": "1992",
+  "ol_subjects": [
+    "Children's fiction",
+    "nyt:young-adult-hardcover=2024-04-21",
+    "New York Times bestseller",
+    "Suspense",
+    "Thriller",
+    "Young Adult Fiction",
+    "Young Adult",
+    "audience:Young Adult"
+  ],
+  "ol_first_publish_year": null
+}

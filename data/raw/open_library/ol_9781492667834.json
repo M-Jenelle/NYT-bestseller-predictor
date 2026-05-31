@@ -1,0 +1,26 @@
+{
+  "primary_isbn13": "9781492667834",
+  "ol_author_name": "Gregory Lang",
+  "ol_publisher": "Sourcebooks Wonderland",
+  "ol_languages": [
+    "eng"
+  ],
+  "ol_ebook_access": "no_ebook",
+  "ol_has_fulltext": false,
+  "ol_public_scan": false,
+  "ol_internet_archive_ids": [],
+  "ol_edition_count": 5,
+  "ol_number_of_pages": 32,
+  "is_series": false,
+  "series_name": null,
+  "author_total_works": 13,
+  "author_birth_date": null,
+  "ol_subjects": [
+    "Children's fiction",
+    "nyt:picture-books=2021-06-13",
+    "New York Times bestseller",
+    "Fathers and daughters",
+    "Fathers and daughters, fiction"
+  ],
+  "ol_first_publish_year": 2011
+}

@@ -1,0 +1,218 @@
+model,feature,importance,absolute_value
+gradient_boosting,primary_language_eng,0.46273032206585146,0.46273032206585146
+gradient_boosting,log_edition_count,0.0912439304836571,0.0912439304836571
+gradient_boosting,ol_edition_count,0.07564104419534946,0.07564104419534946
+gradient_boosting,publisher_grouped_Random House,0.05010284258949956,0.05010284258949956
+gradient_boosting,publication_gap,0.04793959188020448,0.04793959188020448
+gradient_boosting,publisher_grouped_Simon and Schuster,0.044102831679041596,0.044102831679041596
+gradient_boosting,author_grouped_Other,0.036118411040014134,0.036118411040014134
+gradient_boosting,publisher_grouped_Penguin Group,0.03299626561420551,0.03299626561420551
+gradient_boosting,ol_ebook_access_no_ebook,0.019540657110688208,0.019540657110688208
+gradient_boosting,num_ol_subjects,0.01598158109320312,0.01598158109320312
+gradient_boosting,primary_language_unknown,0.014493371031051472,0.014493371031051472
+gradient_boosting,has_page_count,0.011340787767250764,0.011340787767250764
+gradient_boosting,"publisher_grouped_Little, Brown",0.010810642902344693,0.010810642902344693
+gradient_boosting,publisher_grouped_Bloom Books,0.007497727936925449,0.007497727936925449
+gradient_boosting,publisher_grouped_Kensington Publishing Corp,0.007103397662934151,0.007103397662934151
+gradient_boosting,has_ol_languages,0.0062932814994769055,0.0062932814994769055
+gradient_boosting,num_ol_languages,0.006066911836260073,0.006066911836260073
+gradient_boosting,publisher_grouped_Grand Central,0.005436723609779475,0.005436723609779475
+gradient_boosting,subject_education,0.004156981096931092,0.004156981096931092
+gradient_boosting,first_publish_age,0.0036505337315999196,0.0036505337315999196
+gradient_boosting,publisher_grouped_Penguin,0.0036230750275597673,0.0036230750275597673
+gradient_boosting,book_age,0.0033786750075959406,0.0033786750075959406
+gradient_boosting,publish_year,0.0030279748915848993,0.0030279748915848993
+gradient_boosting,ol_first_publish_year,0.0025460669828821446,0.0025460669828821446
+gradient_boosting,has_ol_subjects,0.0022542570989032692,0.0022542570989032692
+gradient_boosting,subject_american_literature,0.0021338599376011843,0.0021338599376011843
+gradient_boosting,subject_fiction,0.0020748930143724476,0.0020748930143724476
+gradient_boosting,log_page_count,0.002058164005636553,0.002058164005636553
+gradient_boosting,primary_language_jpn,0.001882839575334845,0.001882839575334845
+gradient_boosting,publisher_grouped_Graphix,0.0017662290622106826,0.0017662290622106826
+gradient_boosting,publisher_grouped_Taylor & Francis Group,0.0017594232367137196,0.0017594232367137196
+gradient_boosting,page_count,0.001704447433813719,0.001704447433813719
+gradient_boosting,publisher_grouped_Scholastic Press,0.0015940927317703484,0.0015940927317703484
+gradient_boosting,author_grouped_Alice Walstead,0.0015522501536597653,0.0015522501536597653
+gradient_boosting,author_grouped_Charlie Kirk,0.0014415810038411173,0.0014415810038411173
+gradient_boosting,author_grouped_IEEE Staff,0.001294631165056465,0.001294631165056465
+gradient_boosting,publisher_grouped_Harlequin Treasury-Love Inspired 90s,0.0011167451305679474,0.0011167451305679474
+gradient_boosting,publisher_grouped_Other,0.0009701653062019319,0.0009701653062019319
+gradient_boosting,subject_children_s_fiction,0.0009077993137545976,0.0009077993137545976
+gradient_boosting,subject_adult,0.0008897937705787612,0.0008897937705787612
+gradient_boosting,primary_language_ita,0.0008477196691157876,0.0008477196691157876
+gradient_boosting,publisher_grouped_Cambridge University Press,0.0008433361120614099,0.0008433361120614099
+gradient_boosting,author_grouped_Nora Roberts,0.000817426219160576,0.000817426219160576
+gradient_boosting,publisher_grouped_Grand Central Publishing,0.0008006759332262212,0.0008006759332262212
+gradient_boosting,publisher_grouped_Independently Published,0.0007590217550088209,0.0007590217550088209
+gradient_boosting,publisher_grouped_VIZ Media LLC,0.0006418257841298126,0.0006418257841298126
+gradient_boosting,subject_poetry_poetic_works_by_one_author,0.0004309657577724992,0.0004309657577724992
+gradient_boosting,primary_language_nah,0.000412535798374481,0.000412535798374481
+gradient_boosting,publisher_grouped_Entangled: Red Tower Books,0.0004025178112917919,0.0004025178112917919
+gradient_boosting,"publisher_grouped_Creative Media Partners, LLC",0.0003901610325762453,0.0003901610325762453
+gradient_boosting,publisher_grouped_Springer,0.0003352919937528423,0.0003352919937528423
+gradient_boosting,subject_business,0.00025365357025324936,0.00025365357025324936
+gradient_boosting,author_grouped_Suzanne Lang,0.00024707479313582797,0.00024707479313582797
+gradient_boosting,ol_ebook_access_printdisabled,0.00017889981270882043,0.00017889981270882043
+gradient_boosting,ol_ebook_access_borrowable,0.0001711350442076851,0.0001711350442076851
+gradient_boosting,publisher_grouped_St. Martin's Press,0.00016537165432624655,0.00016537165432624655
+gradient_boosting,subject_biography,0.00014536296162004039,0.00014536296162004039
+gradient_boosting,author_grouped_Dav Pilkey,0.00013995952530517568,0.00013995952530517568
+gradient_boosting,has_ebook_access,0.00010660563759808933,0.00010660563759808933
+gradient_boosting,publisher_grouped_HarperCollins,0.00010627033655359769,0.00010627033655359769
+gradient_boosting,subject_political_science,9.604774779955875e-05,9.604774779955875e-05
+gradient_boosting,ol_ebook_access_unknown,8.299573866335097e-05,8.299573866335097e-05
+gradient_boosting,subject_romance,7.459846694525034e-05,7.459846694525034e-05
+gradient_boosting,subject_mystery_thriller,7.318495950777134e-05,7.318495950777134e-05
+gradient_boosting,subject_fiction_romance_general,5.2107668799912404e-05,5.2107668799912404e-05
+gradient_boosting,primary_language_ger,3.418945682663242e-05,3.418945682663242e-05
+gradient_boosting,author_grouped_Anonymous,3.409571229706197e-05,3.409571229706197e-05
+gradient_boosting,has_ol_edition_count,3.0405719953982307e-05,3.0405719953982307e-05
+gradient_boosting,subject_sports,2.7550307602878525e-05,2.7550307602878525e-05
+gradient_boosting,author_grouped_Unknown,2.572055887245997e-05,2.572055887245997e-05
+gradient_boosting,subject_contemporary,2.5032604205731905e-05,2.5032604205731905e-05
+gradient_boosting,has_first_publish_year,1.534242264357555e-05,1.534242264357555e-05
+gradient_boosting,subject_technology,5.774967765285314e-06,5.774967765285314e-06
+gradient_boosting,subject_juvenile_fiction,2.316964017348339e-06,2.316964017348339e-06
+gradient_boosting,subject_history,1.3293260563077934e-08,1.3293260563077934e-08
+gradient_boosting,author_grouped_Tui T. Sutherland,1.1532750698804047e-08,1.1532750698804047e-08
+gradient_boosting,subject_art,0.0,0.0
+gradient_boosting,subject_philosophy,0.0,0.0
+gradient_boosting,primary_language_tur,0.0,0.0
+gradient_boosting,subject_fiction_mystery_detective_general,0.0,0.0
+gradient_boosting,subject_psychology,0.0,0.0
+gradient_boosting,subject_fiction_thrillers_suspense,0.0,0.0
+gradient_boosting,subject_spirituality,0.0,0.0
+gradient_boosting,subject_health,0.0,0.0
+gradient_boosting,primary_language_srp,0.0,0.0
+gradient_boosting,subject_fiction_action_adventure,0.0,0.0
+gradient_boosting,subject_religion,0.0,0.0
+gradient_boosting,subject_self_help_techniques,0.0,0.0
+gradient_boosting,subject_family,0.0,0.0
+gradient_boosting,subject_fiction_fantasy_general,0.0,0.0
+gradient_boosting,subject_fiction_science_fiction_general,0.0,0.0
+gradient_boosting,subject_fiction_general,0.0,0.0
+gradient_boosting,subject_fiction_historical_general,0.0,0.0
+gradient_boosting,subject_literature_collections,0.0,0.0
+gradient_boosting,subject_fantasy,0.0,0.0
+gradient_boosting,subject_fiction_psychological,0.0,0.0
+gradient_boosting,subject_law,0.0,0.0
+gradient_boosting,subject_english_literature,0.0,0.0
+gradient_boosting,subject_fiction_romance_contemporary,0.0,0.0
+gradient_boosting,subject_games,0.0,0.0
+gradient_boosting,subject_economics,0.0,0.0
+gradient_boosting,subject_literature,0.0,0.0
+gradient_boosting,subject_friendship,0.0,0.0
+gradient_boosting,subject_poetry_collections,0.0,0.0
+gradient_boosting,subject_medicine,0.0,0.0
+gradient_boosting,subject_world_history,0.0,0.0
+gradient_boosting,subject_fiction_horror_general,0.0,0.0
+gradient_boosting,subject_stories_in_rhyme,0.0,0.0
+gradient_boosting,subject_travel,0.0,0.0
+gradient_boosting,subject_bible_commentaries,0.0,0.0
+gradient_boosting,subject_young_adult,0.0,0.0
+gradient_boosting,subject_language_and_languages_study_and_teaching,0.0,0.0
+gradient_boosting,subject_computers,0.0,0.0
+gradient_boosting,subject_fiction_thrillers_general,0.0,0.0
+gradient_boosting,subject_suspense,0.0,0.0
+gradient_boosting,subject_nature,0.0,0.0
+gradient_boosting,subject_united_states_history,0.0,0.0
+gradient_boosting,subject_crime,0.0,0.0
+gradient_boosting,subject_mathematics,0.0,0.0
+gradient_boosting,subject_mind_and_body,0.0,0.0
+gradient_boosting,subject_reference_books,0.0,0.0
+gradient_boosting,subject_memoirs,0.0,0.0
+gradient_boosting,subject_fiction_lgbtq_gay,0.0,0.0
+gradient_boosting,subject_cooking,0.0,0.0
+gradient_boosting,subject_comics_graphic_novels_general,0.0,0.0
+gradient_boosting,subject_mystery,0.0,0.0
+gradient_boosting,subject_sociology,0.0,0.0
+gradient_boosting,subject_interpersonal_relations,0.0,0.0
+gradient_boosting,subject_thriller,0.0,0.0
+gradient_boosting,subject_parenting,0.0,0.0
+gradient_boosting,subject_fiction_short_stories_single_author,0.0,0.0
+gradient_boosting,subject_fiction_religious,0.0,0.0
+gradient_boosting,primary_language_por,0.0,0.0
+gradient_boosting,subject_social_sciences,0.0,0.0
+gradient_boosting,subject_science,0.0,0.0
+gradient_boosting,subject_personal_memoirs,0.0,0.0
+gradient_boosting,primary_language_spa,0.0,0.0
+gradient_boosting,author_grouped_Rachel Reid,0.0,0.0
+gradient_boosting,primary_language_pol,0.0,0.0
+gradient_boosting,publisher_grouped_Yen Press LLC,0.0,0.0
+gradient_boosting,publisher_grouped_Rosen Publishing Group,0.0,0.0
+gradient_boosting,"publisher_grouped_Routledge, Chapman & Hall, Incorporated",0.0,0.0
+gradient_boosting,publisher_grouped_Scholastic,0.0,0.0
+gradient_boosting,publisher_grouped_Staten House,0.0,0.0
+gradient_boosting,"publisher_grouped_Wiley & Sons, Incorporated, John",0.0,0.0
+gradient_boosting,"publisher_grouped_Wiley & Sons, Limited, John",0.0,0.0
+gradient_boosting,publisher_grouped_Wipf & Stock Publishers,0.0,0.0
+gradient_boosting,"publisher_grouped_de Gruyter GmbH, Walter",0.0,0.0
+gradient_boosting,publisher_grouped_Primedia eLaunch LLC,0.0,0.0
+gradient_boosting,author_grouped_Adam Wallace,0.0,0.0
+gradient_boosting,author_grouped_Alan Gratz,0.0,0.0
+gradient_boosting,author_grouped_Alex Aster,0.0,0.0
+gradient_boosting,author_grouped_Ali Hazelwood,0.0,0.0
+gradient_boosting,author_grouped_Bright Thinker,0.0,0.0
+gradient_boosting,author_grouped_Callie Hart,0.0,0.0
+gradient_boosting,author_grouped_Chloe Walsh,0.0,0.0
+gradient_boosting,publisher_grouped_Random House Children's Books,0.0,0.0
+gradient_boosting,"publisher_grouped_Penguin Books, Limited",0.0,0.0
+gradient_boosting,author_grouped_DK Publishing,0.0,0.0
+gradient_boosting,publisher_grouped_Elsevier,0.0,0.0
+gradient_boosting,publisher_grouped_Bloomsbury Publishing Plc,0.0,0.0
+gradient_boosting,publisher_grouped_Blurb,0.0,0.0
+gradient_boosting,publisher_grouped_BookBaby,0.0,0.0
+gradient_boosting,publisher_grouped_CRC Press LLC,0.0,0.0
+gradient_boosting,publisher_grouped_CreateSpace Independent Publishing Platform,0.0,0.0
+gradient_boosting,"publisher_grouped_Dorling Kindersley Publishing, Incorporated",0.0,0.0
+gradient_boosting,"publisher_grouped_Elgar Publishing Limited, Edward",0.0,0.0
+gradient_boosting,publisher_grouped_Harlequin Enterprises ULC,0.0,0.0
+gradient_boosting,publisher_grouped_Palgrave Macmillan,0.0,0.0
+gradient_boosting,publisher_grouped_HarperCollins Publishers,0.0,0.0
+gradient_boosting,publisher_grouped_HarperCollins Publishers Limited,0.0,0.0
+gradient_boosting,"publisher_grouped_LAD Custom Publishing, Incorporated",0.0,0.0
+gradient_boosting,publisher_grouped_Lerner Publishing Group,0.0,0.0
+gradient_boosting,"publisher_grouped_Little, Brown Book Group Limited",0.0,0.0
+gradient_boosting,publisher_grouped_Oxford University Press,0.0,0.0
+gradient_boosting,"publisher_grouped_Oxford University Press, Incorporated",0.0,0.0
+gradient_boosting,author_grouped_Colleen Hoover,0.0,0.0
+gradient_boosting,author_grouped_Danielle Steel,0.0,0.0
+gradient_boosting,primary_language_heb,0.0,0.0
+gradient_boosting,author_grouped_Tahereh Mafi,0.0,0.0
+gradient_boosting,author_grouped_Michael Connelly,0.0,0.0
+gradient_boosting,author_grouped_Navessa Allen,0.0,0.0
+gradient_boosting,author_grouped_Rebecca Yarros,0.0,0.0
+gradient_boosting,author_grouped_Reza Nazari,0.0,0.0
+gradient_boosting,author_grouped_Sarah J. Maas,0.0,0.0
+gradient_boosting,author_grouped_Stephen King,0.0,0.0
+gradient_boosting,author_grouped_Suzanne Collins,0.0,0.0
+gradient_boosting,author_grouped_William W. Johnstone and J.A. Johnstone,0.0,0.0
+gradient_boosting,author_grouped_Meghan Quinn,0.0,0.0
+gradient_boosting,ol_ebook_access_public,0.0,0.0
+gradient_boosting,ol_ebook_access_unclassified,0.0,0.0
+gradient_boosting,primary_language_cat,0.0,0.0
+gradient_boosting,primary_language_chi,0.0,0.0
+gradient_boosting,primary_language_dut,0.0,0.0
+gradient_boosting,primary_language_enm,0.0,0.0
+gradient_boosting,primary_language_fre,0.0,0.0
+gradient_boosting,author_grouped_Mergent Inc,0.0,0.0
+gradient_boosting,author_grouped_Matt Dinniman,0.0,0.0
+gradient_boosting,author_grouped_David Ann,0.0,0.0
+gradient_boosting,author_grouped_Hal Leonard Corp.,0.0,0.0
+gradient_boosting,author_grouped_David Baldacci,0.0,0.0
+gradient_boosting,author_grouped_Dun & Bradstreet,0.0,0.0
+gradient_boosting,author_grouped_Emily Henry,0.0,0.0
+gradient_boosting,author_grouped_Eric Carle,0.0,0.0
+gradient_boosting,author_grouped_Erin Hunter,0.0,0.0
+gradient_boosting,author_grouped_Freida McFadden,0.0,0.0
+gradient_boosting,author_grouped_Gege Akutami,0.0,0.0
+gradient_boosting,author_grouped_Hirohiko Araki,0.0,0.0
+gradient_boosting,author_grouped_Lynn Painter,0.0,0.0
+gradient_boosting,author_grouped_Holly Jackson,0.0,0.0
+gradient_boosting,author_grouped_J.D. Robb,0.0,0.0
+gradient_boosting,author_grouped_J.K. Rowling,0.0,0.0
+gradient_boosting,author_grouped_L.J. Shen,0.0,0.0
+gradient_boosting,author_grouped_LAD Custom Publishing Inc.,0.0,0.0
+gradient_boosting,author_grouped_Lad Custom Publishing Inc.,0.0,0.0
+gradient_boosting,author_grouped_Lonely Planet,0.0,0.0
+gradient_boosting,subject_fiction_horror,0.0,0.0

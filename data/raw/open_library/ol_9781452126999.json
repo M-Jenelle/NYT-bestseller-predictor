@@ -1,0 +1,33 @@
+{
+  "primary_isbn13": "9781452126999",
+  "ol_author_name": "Amy Krouse Rosenthal",
+  "ol_publisher": "Chronicle Books",
+  "ol_languages": [
+    "eng"
+  ],
+  "ol_ebook_access": "printdisabled",
+  "ol_has_fulltext": true,
+  "ol_public_scan": false,
+  "ol_internet_archive_ids": [
+    "iwishyoumore0000rose"
+  ],
+  "ol_edition_count": 3,
+  "ol_number_of_pages": null,
+  "is_series": false,
+  "series_name": null,
+  "author_total_works": 100,
+  "author_birth_date": "April 29, 1965",
+  "ol_subjects": [
+    "Comparison",
+    "Juvenile fiction",
+    "Wishes",
+    "English language",
+    "Fiction",
+    "Picture books for children",
+    "Children's fiction",
+    "Picture books",
+    "nyt:picture-books=2015-04-19",
+    "New York Times bestseller"
+  ],
+  "ol_first_publish_year": 2015
+}

@@ -1,0 +1,28 @@
+{
+  "primary_isbn13": "9780062563903",
+  "ol_author_name": "Gordon Korman",
+  "ol_publisher": "HarperCollins Publishers",
+  "ol_languages": [
+    "eng"
+  ],
+  "ol_ebook_access": "no_ebook",
+  "ol_has_fulltext": false,
+  "ol_public_scan": false,
+  "ol_internet_archive_ids": [],
+  "ol_edition_count": 11,
+  "ol_number_of_pages": 304,
+  "is_series": false,
+  "series_name": null,
+  "author_total_works": 100,
+  "author_birth_date": "23 October 1963",
+  "ol_subjects": [
+    "Humor",
+    "Schools, fiction",
+    "Children's fiction",
+    "Teacher-student relationships, fiction",
+    "American literature",
+    "nyt:middle-grade-paperback-monthly=2020-02-09",
+    "New York Times bestseller"
+  ],
+  "ol_first_publish_year": 2019
+}

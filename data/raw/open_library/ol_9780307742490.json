@@ -1,0 +1,27 @@
+{
+  "primary_isbn13": "9780307742490",
+  "ol_author_name": "David Grann",
+  "ol_publisher": "Knopf Doubleday Publishing Group",
+  "ol_languages": [
+    "eng"
+  ],
+  "ol_ebook_access": "no_ebook",
+  "ol_has_fulltext": false,
+  "ol_public_scan": false,
+  "ol_internet_archive_ids": [],
+  "ol_edition_count": 8,
+  "ol_number_of_pages": 432,
+  "is_series": false,
+  "series_name": null,
+  "author_total_works": 6,
+  "author_birth_date": null,
+  "ol_subjects": [
+    "nyt:combined-print-and-e-book-nonfiction=2023-05-07",
+    "New York Times bestseller",
+    "Great britain, history, 1714-1837",
+    "Mass murder",
+    "Shipwrecks",
+    "Mutiny"
+  ],
+  "ol_first_publish_year": 2023
+}

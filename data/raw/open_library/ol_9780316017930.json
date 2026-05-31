@@ -1,0 +1,45 @@
+{
+  "primary_isbn13": "9780316017930",
+  "ol_author_name": "Malcolm Gladwell",
+  "ol_publisher": "Little, Brown",
+  "ol_languages": [
+    "enm",
+    "eng",
+    "tur",
+    "spa",
+    "por",
+    "chi"
+  ],
+  "ol_ebook_access": "borrowable",
+  "ol_has_fulltext": true,
+  "ol_public_scan": false,
+  "ol_internet_archive_ids": [
+    "foradesrieoutlie0000malc",
+    "isbn_9787508615158",
+    "outliersstoryofs0000malc_p4r1",
+    "outliersfuerasde0000glad",
+    "outliersstoryofs00glad",
+    "outliersstoryofs0000glad_e0j9",
+    "outliers00malc",
+    "Outliers_201805"
+  ],
+  "ol_edition_count": 32,
+  "ol_number_of_pages": 336,
+  "is_series": false,
+  "series_name": null,
+  "author_total_works": 79,
+  "author_birth_date": "September 3, 1963",
+  "ol_subjects": [
+    "Psychology",
+    "Business",
+    "Successful people",
+    "Success",
+    "Nonfiction",
+    "nyt:paperback_business_books=2012-02-25",
+    "New York Times bestseller",
+    "Interpersonal relations",
+    "Social interaction",
+    "Health Behavior"
+  ],
+  "ol_first_publish_year": 2008
+}

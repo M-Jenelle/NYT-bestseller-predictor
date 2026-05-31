@@ -1,0 +1,31 @@
+{
+  "primary_isbn13": "9780593725849",
+  "ol_author_name": "Lee Child",
+  "ol_publisher": "Bantam",
+  "ol_languages": [
+    "eng"
+  ],
+  "ol_ebook_access": "no_ebook",
+  "ol_has_fulltext": false,
+  "ol_public_scan": false,
+  "ol_internet_archive_ids": [],
+  "ol_edition_count": 4,
+  "ol_number_of_pages": 320,
+  "is_series": false,
+  "series_name": null,
+  "author_total_works": 100,
+  "author_birth_date": "1954",
+  "ol_subjects": [
+    "Thriller",
+    "Fiction",
+    "Mystery",
+    "Crime",
+    "Mystery Thriller",
+    "Action",
+    "Suspense",
+    "Adventure",
+    "Detective",
+    "Adult"
+  ],
+  "ol_first_publish_year": 2025
+}

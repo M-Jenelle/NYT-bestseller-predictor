@@ -1,0 +1,34 @@
+{
+  "primary_isbn13": "9781728296210",
+  "ol_author_name": "Freida McFadden",
+  "ol_publisher": "Poisoned Pen Press",
+  "ol_languages": [
+    "dut",
+    "ger",
+    "eng",
+    "por"
+  ],
+  "ol_ebook_access": "no_ebook",
+  "ol_has_fulltext": false,
+  "ol_public_scan": false,
+  "ol_internet_archive_ids": [],
+  "ol_edition_count": 6,
+  "ol_number_of_pages": null,
+  "is_series": false,
+  "series_name": null,
+  "author_total_works": 49,
+  "author_birth_date": "1 May 1980",
+  "ol_subjects": [
+    "American literature",
+    "nyt:combined-print-and-e-book-fiction=2024-02-25",
+    "New York Times bestseller",
+    "Thriller",
+    "Mystery",
+    "Mystery Thriller",
+    "Fiction",
+    "Suspense",
+    "Psychological Thriller",
+    "Crime"
+  ],
+  "ol_first_publish_year": 2024
+}

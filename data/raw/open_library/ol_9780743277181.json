@@ -1,0 +1,35 @@
+{
+  "primary_isbn13": "9780743277181",
+  "ol_author_name": "Carole Radziwill",
+  "ol_publisher": "Scribner",
+  "ol_languages": [
+    "eng"
+  ],
+  "ol_ebook_access": "printdisabled",
+  "ol_has_fulltext": true,
+  "ol_public_scan": false,
+  "ol_internet_archive_ids": [
+    "isbn_9781416531265",
+    "whatremainsmemoi00radz",
+    "whatremainsmemoi0000radz"
+  ],
+  "ol_edition_count": 9,
+  "ol_number_of_pages": 264,
+  "is_series": false,
+  "series_name": null,
+  "author_total_works": 4,
+  "author_birth_date": null,
+  "ol_subjects": [
+    "Television journalists",
+    "Women journalists",
+    "Biography",
+    "Women, united states, biography",
+    "Cancer, patients, biography",
+    "Kennedy family",
+    "Kennedy, john f. (john fitzgerald), 1960-1999",
+    "Journalists, biography",
+    "Television broadcasting, biography",
+    "Kennedy, john f., jr., 1960-1999"
+  ],
+  "ol_first_publish_year": 2005
+}

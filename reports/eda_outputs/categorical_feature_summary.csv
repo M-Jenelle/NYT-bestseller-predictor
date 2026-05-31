@@ -1,0 +1,63 @@
+column,value,count
+nyt_list_name,Hardcover Fiction,221
+nyt_list_name,"Advice, How-To & Miscellaneous",165
+nyt_list_name,Hardcover Nonfiction,162
+nyt_list_name,Combined Print & E-Book Fiction,132
+nyt_list_name,Mass Market,130
+nyt_list_name,Paperback Trade Fiction,127
+nyt_list_name,Children’s Picture Books,100
+nyt_list_name,Young Adult Hardcover,93
+nyt_list_name,Combined Print & E-Book Nonfiction,85
+nyt_list_name,Paperback Nonfiction,80
+nyt_list_name,Graphic Books and Manga,78
+nyt_list_name,Audio Nonfiction,76
+nyt_list_name,Audio Fiction,73
+nyt_list_name,Children’s Middle Grade Hardcover,69
+nyt_list_name,Children’s & Young Adult Series,68
+match_method,isbn,1588
+match_method,title_author,223
+primary_genre,Fiction,677
+primary_genre,Juvenile Fiction,248
+primary_genre,Biography & Autobiography,209
+primary_genre,Young Adult Fiction,148
+primary_genre,Business & Economics,52
+primary_genre,History,44
+primary_genre,Comics & Graphic Novels,43
+primary_genre,Political Science,41
+primary_genre,Cooking,40
+primary_genre,Self-Help,35
+primary_genre,Juvenile Nonfiction,29
+primary_genre,Health & Fitness,29
+primary_genre,Unknown,27
+primary_genre,Religion,21
+primary_genre,Family & Relationships,14
+language,en,1808
+language,sv,1
+language,de,1
+language,ta,1
+maturity_rating,NOT_MATURE,1781
+maturity_rating,MATURE,30
+ol_ebook_access,no_ebook,937
+ol_ebook_access,,758
+ol_ebook_access,printdisabled,78
+ol_ebook_access,borrowable,38
+primary_ol_language,eng,925
+primary_ol_language,,757
+primary_ol_language,Unknown,100
+primary_ol_language,dut,6
+primary_ol_language,ger,5
+primary_ol_language,fre,3
+primary_ol_language,pol,3
+primary_ol_language,por,2
+primary_ol_language,cat,2
+primary_ol_language,heb,2
+primary_ol_language,tur,1
+primary_ol_language,srp,1
+primary_ol_language,chi,1
+primary_ol_language,enm,1
+primary_ol_language,est,1
+is_series,False,954
+is_series,,757
+is_series,True,100
+has_open_library_match,True,1054
+has_open_library_match,False,757

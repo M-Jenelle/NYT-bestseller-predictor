@@ -1,0 +1,40 @@
+{
+  "primary_isbn13": "9781101965887",
+  "ol_author_name": "George R. R. Martin",
+  "ol_publisher": "Bantam Books",
+  "ol_languages": [
+    "eng"
+  ],
+  "ol_ebook_access": "borrowable",
+  "ol_has_fulltext": true,
+  "ol_public_scan": false,
+  "ol_internet_archive_ids": [
+    "riddervandezeven0000mart",
+    "elcaballerodelos0000mart",
+    "isbn_9788377853979",
+    "knightofsevenkin0000mart_l1o8",
+    "knightofsevenkin0000geor",
+    "qiwangguodeqishi0000mart",
+    "knightofsevenkin0000mart",
+    "knightofsevenkin0000mart_o8q3"
+  ],
+  "ol_edition_count": 17,
+  "ol_number_of_pages": 368,
+  "is_series": false,
+  "series_name": null,
+  "author_total_works": 100,
+  "author_birth_date": "20 September 1948",
+  "ol_subjects": [
+    "Seven Kingdoms (Imaginary place)",
+    "Imaginary places",
+    "Fiction",
+    "Knights and knighthood",
+    "Gentry",
+    "Fiction, fantasy, epic",
+    "Seven kingdoms (imaginary place), fiction",
+    "Dragons",
+    "Fantasy fiction",
+    "Adventure fiction"
+  ],
+  "ol_first_publish_year": 2013
+}

@@ -1,0 +1,39 @@
+{
+  "primary_isbn13": "9781101989753",
+  "ol_author_name": "Nora Roberts",
+  "ol_publisher": "Penguin Publishing Group",
+  "ol_languages": [
+    "eng"
+  ],
+  "ol_ebook_access": "borrowable",
+  "ol_has_fulltext": true,
+  "ol_public_scan": false,
+  "ol_internet_archive_ids": [
+    "lementeur0000robe",
+    "liar0000robe_z0w2",
+    "liar0000robe_k6i0",
+    "liar0000robe_y7x9",
+    "liar0000robe_g1d4",
+    "liar0000robe_o3x5",
+    "liar0000robe"
+  ],
+  "ol_edition_count": 14,
+  "ol_number_of_pages": 480,
+  "is_series": false,
+  "series_name": null,
+  "author_total_works": 100,
+  "author_birth_date": "October 10, 1950",
+  "ol_subjects": [
+    "Homicide",
+    "Fraud",
+    "Secrets",
+    "Single mothers",
+    "FICTION",
+    "Romance",
+    "Attempted murder",
+    "Man-woman relationship",
+    "Homecoming",
+    "Contemporary"
+  ],
+  "ol_first_publish_year": 1986
+}

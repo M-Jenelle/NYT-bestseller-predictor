@@ -1,0 +1,36 @@
+{
+  "primary_isbn13": "9780812979688",
+  "ol_author_name": "Nassim Nicholas Taleb",
+  "ol_publisher": "Random House Publishing Group",
+  "ol_languages": [
+    "eng"
+  ],
+  "ol_ebook_access": "borrowable",
+  "ol_has_fulltext": true,
+  "ol_public_scan": false,
+  "ol_internet_archive_ids": [
+    "fancuiruocongbuq0000tale",
+    "antifragilething0000tale",
+    "isbn_9781400067824",
+    "isbn_9781400067824"
+  ],
+  "ol_edition_count": 18,
+  "ol_number_of_pages": 544,
+  "is_series": false,
+  "series_name": null,
+  "author_total_works": 71,
+  "author_birth_date": "11 September 1960",
+  "ol_subjects": [
+    "Resilience (Personality trait)",
+    "PSYCHOLOGY / General",
+    "BUSINESS & ECONOMICS / General",
+    "Long Now Manual for Civilization",
+    "Social aspects",
+    "Uncertainty (Information theory)",
+    "Forecasting",
+    "Complexity (Philosophy)",
+    "Psychological Resilience",
+    "Psychological Adaptation"
+  ],
+  "ol_first_publish_year": 2012
+}

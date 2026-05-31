@@ -1,0 +1,42 @@
+{
+  "primary_isbn13": "9780399255373",
+  "ol_author_name": "Drew Daywalt",
+  "ol_publisher": "Penguin",
+  "ol_languages": [
+    "heb",
+    "spa",
+    "jpn",
+    "ger",
+    "chi",
+    "eng",
+    "gre"
+  ],
+  "ol_ebook_access": "borrowable",
+  "ol_has_fulltext": true,
+  "ol_public_scan": false,
+  "ol_internet_archive_ids": [
+    "eldiaqueloscrayo0000dayw",
+    "labidabagong0000dayw",
+    "daycrayonsquit0000dayw_g9l9",
+    "daycrayonsquit0000dayw"
+  ],
+  "ol_edition_count": 21,
+  "ol_number_of_pages": 40,
+  "is_series": true,
+  "series_name": "series:The_Crayons",
+  "author_total_works": 29,
+  "author_birth_date": "5 January 1970",
+  "ol_subjects": [
+    "Color",
+    "Crayons",
+    "Letters",
+    "Juvenile fiction",
+    "Fiction",
+    "Blind",
+    "Books and reading",
+    "Colors",
+    "Humorous Stories",
+    "Animals"
+  ],
+  "ol_first_publish_year": 2013
+}

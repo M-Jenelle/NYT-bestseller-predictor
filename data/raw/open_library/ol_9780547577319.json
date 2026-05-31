@@ -1,0 +1,35 @@
+{
+  "primary_isbn13": "9780547577319",
+  "ol_author_name": "Linda Sue Park",
+  "ol_publisher": "Sandpiper",
+  "ol_languages": [
+    "eng",
+    "spa"
+  ],
+  "ol_ebook_access": "printdisabled",
+  "ol_has_fulltext": true,
+  "ol_public_scan": false,
+  "ol_internet_archive_ids": [
+    "longwalktowaterb0000lind",
+    "longwalktowater0000park"
+  ],
+  "ol_edition_count": 27,
+  "ol_number_of_pages": null,
+  "is_series": false,
+  "series_name": null,
+  "author_total_works": 39,
+  "author_birth_date": "1960-03-25",
+  "ol_subjects": [
+    "Children's fiction",
+    "Refugees, fiction",
+    "Survival, fiction",
+    "Blacks, fiction",
+    "Africa, east, fiction",
+    "nyt:childrens-middle-grade=2013-07-28",
+    "New York Times bestseller",
+    "Water",
+    "Blacks",
+    "Juvenile fiction"
+  ],
+  "ol_first_publish_year": 2008
+}

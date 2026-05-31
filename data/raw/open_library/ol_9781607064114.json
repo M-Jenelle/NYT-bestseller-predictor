@@ -1,0 +1,29 @@
+{
+  "primary_isbn13": "9781607064114",
+  "ol_author_name": "Robert Kirkman",
+  "ol_publisher": "Image Comics",
+  "ol_languages": [
+    "eng"
+  ],
+  "ol_ebook_access": "no_ebook",
+  "ol_has_fulltext": false,
+  "ol_public_scan": false,
+  "ol_internet_archive_ids": [],
+  "ol_edition_count": 2,
+  "ol_number_of_pages": null,
+  "is_series": true,
+  "series_name": {
+    "series": {
+      "key": "/series/OL328989L"
+    },
+    "position": "1-9"
+  },
+  "author_total_works": 100,
+  "author_birth_date": "30/11/1978",
+  "ol_subjects": [
+    "Comics & graphic novels, superheroes",
+    "nyt:graphic-books-and-manga=2024-05-12",
+    "New York Times bestseller"
+  ],
+  "ol_first_publish_year": 2011
+}

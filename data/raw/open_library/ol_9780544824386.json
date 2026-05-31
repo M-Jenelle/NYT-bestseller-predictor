@@ -1,0 +1,39 @@
+{
+  "primary_isbn13": "9780544824386",
+  "ol_author_name": "David Macaulay",
+  "ol_publisher": "Clarion Books",
+  "ol_languages": [
+    "chi",
+    "spa",
+    "eng",
+    "kor"
+  ],
+  "ol_ebook_access": "borrowable",
+  "ol_has_fulltext": true,
+  "ol_public_scan": false,
+  "ol_internet_archive_ids": [
+    "waythingswork0000maca_n2g7",
+    "waythingswork00maca",
+    "isbn_0590429892",
+    "newwaythingswork00maca"
+  ],
+  "ol_edition_count": 26,
+  "ol_number_of_pages": null,
+  "is_series": false,
+  "series_name": null,
+  "author_total_works": 97,
+  "author_birth_date": "2 December 1946",
+  "ol_subjects": [
+    "Technology",
+    "Popular works",
+    "Apparatuur",
+    "Machines",
+    "Werking",
+    "Long Now Manual for Civilization",
+    "Juvenile Non-Fiction",
+    "Inventions",
+    "nyt:young-adult-hardcover=2016-10-23",
+    "New York Times bestseller"
+  ],
+  "ol_first_publish_year": 1988
+}

@@ -1,0 +1,39 @@
+{
+  "primary_isbn13": "9781635575569",
+  "ol_author_name": "Sarah J. Maas",
+  "ol_publisher": "Bloomsbury Publishing",
+  "ol_languages": [
+    "eng"
+  ],
+  "ol_ebook_access": "printdisabled",
+  "ol_has_fulltext": true,
+  "ol_public_scan": false,
+  "ol_internet_archive_ids": [
+    "courtofthornsros0000maas",
+    "courtofthornsros0000maas_n0z0"
+  ],
+  "ol_edition_count": 34,
+  "ol_number_of_pages": 448,
+  "is_series": true,
+  "series_name": {
+    "series": {
+      "key": "/series/OL327003L"
+    },
+    "position": "1"
+  },
+  "author_total_works": 58,
+  "author_birth_date": "05 March 1986",
+  "ol_subjects": [
+    "Fantasy",
+    "Love",
+    "Blessing and cursing",
+    "Fairies",
+    "Children's audiobooks",
+    "Fiction",
+    "Juvenile fiction",
+    "Love stories",
+    "Children's fiction",
+    "Love, fiction"
+  ],
+  "ol_first_publish_year": 2013
+}

@@ -1,0 +1,27 @@
+{
+  "primary_isbn13": "9780358272441",
+  "ol_author_name": "Alice Schertle",
+  "ol_publisher": "Houghton Mifflin Harcourt Publishing Company",
+  "ol_languages": [
+    "eng"
+  ],
+  "ol_ebook_access": "no_ebook",
+  "ol_has_fulltext": false,
+  "ol_public_scan": false,
+  "ol_internet_archive_ids": [],
+  "ol_edition_count": 2,
+  "ol_number_of_pages": null,
+  "is_series": false,
+  "series_name": null,
+  "author_total_works": 100,
+  "author_birth_date": null,
+  "ol_subjects": [
+    "nyt:picture-books=2021-01-17",
+    "New York Times bestseller",
+    "Children's fiction",
+    "Trucks, fiction",
+    "Domestic animals, fiction",
+    "Valentine's day, fiction"
+  ],
+  "ol_first_publish_year": 2020
+}

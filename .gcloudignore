@@ -1,0 +1,12 @@
+.git
+.venv
+__pycache__
+*.pyc
+.DS_Store
+.env
+logs
+figures
+reports
+data
+*.pdf
+NYT-bestseller-predictor

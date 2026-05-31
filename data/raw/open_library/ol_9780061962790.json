@@ -1,0 +1,36 @@
+{
+  "primary_isbn13": "9780061962790",
+  "ol_author_name": "Thanhha Lai",
+  "ol_publisher": "Harper",
+  "ol_languages": [
+    "eng"
+  ],
+  "ol_ebook_access": "borrowable",
+  "ol_has_fulltext": true,
+  "ol_public_scan": false,
+  "ol_internet_archive_ids": [
+    "shisuinanianinsi0000lait",
+    "isbn_9780545447850",
+    "insideoutbackaga0000lait",
+    "insideoutbackaga0000lait_g2n1"
+  ],
+  "ol_edition_count": 19,
+  "ol_number_of_pages": 277,
+  "is_series": false,
+  "series_name": null,
+  "author_total_works": 8,
+  "author_birth_date": "January 1, 1965",
+  "ol_subjects": [
+    "Verse novels",
+    "Vietnam War",
+    "North Vietnamese Army",
+    "Juvenile fiction",
+    "stories in verse",
+    "people & places",
+    "social themes",
+    "emigration & immigration",
+    "new experience",
+    "children's stories"
+  ],
+  "ol_first_publish_year": 2011
+}

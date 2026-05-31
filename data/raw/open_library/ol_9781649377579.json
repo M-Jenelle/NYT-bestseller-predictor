@@ -1,0 +1,32 @@
+{
+  "primary_isbn13": "9781649377579",
+  "ol_author_name": "Rebecca Yarros",
+  "ol_publisher": "Entangled Publishing, LLC",
+  "ol_languages": [
+    "eng"
+  ],
+  "ol_ebook_access": "no_ebook",
+  "ol_has_fulltext": false,
+  "ol_public_scan": false,
+  "ol_internet_archive_ids": [],
+  "ol_edition_count": 13,
+  "ol_number_of_pages": 640,
+  "is_series": true,
+  "series_name": {
+    "series": {
+      "key": "/series/OL331363L"
+    },
+    "position": "2"
+  },
+  "author_total_works": 36,
+  "author_birth_date": "14 april 1981",
+  "ol_subjects": [
+    "nyt:combined-print-and-e-book-fiction=2023-11-26",
+    "New York Times bestseller",
+    "Fiction, fantasy, action & adventure",
+    "Fiction, fantasy, dragons & mythical creatures",
+    "Fiction, fantasy, epic",
+    "Serie:The_Empyrean"
+  ],
+  "ol_first_publish_year": 2023
+}

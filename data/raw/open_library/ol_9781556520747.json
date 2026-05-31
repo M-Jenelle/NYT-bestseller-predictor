@@ -1,0 +1,34 @@
+{
+  "primary_isbn13": "9781556520747",
+  "ol_author_name": "Assata Shakur",
+  "ol_publisher": "L. Hill Books",
+  "ol_languages": [
+    "eng"
+  ],
+  "ol_ebook_access": "borrowable",
+  "ol_has_fulltext": true,
+  "ol_public_scan": false,
+  "ol_internet_archive_ids": [
+    "assataautobiogra00shak",
+    "assataautobiogra00assa"
+  ],
+  "ol_edition_count": 27,
+  "ol_number_of_pages": 274,
+  "is_series": false,
+  "series_name": null,
+  "author_total_works": 8,
+  "author_birth_date": "16 July 1947",
+  "ol_subjects": [
+    "Black Panther Party",
+    "Open Library Staff Picks",
+    "Black nationalism",
+    "Race relations",
+    "Black Feminism",
+    "Racism",
+    "African Americans",
+    "Biography",
+    "New York Times reviewed",
+    "African American women political activists"
+  ],
+  "ol_first_publish_year": 1987
+}

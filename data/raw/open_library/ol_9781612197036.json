@@ -1,0 +1,33 @@
+{
+  "primary_isbn13": "9781612197036",
+  "ol_author_name": "Mark Bray",
+  "ol_publisher": "Melville House",
+  "ol_languages": [
+    "eng"
+  ],
+  "ol_ebook_access": "printdisabled",
+  "ol_has_fulltext": true,
+  "ol_public_scan": false,
+  "ol_internet_archive_ids": [
+    "antifaantifascis0000bray",
+    "revhosatx1"
+  ],
+  "ol_edition_count": 7,
+  "ol_number_of_pages": 259,
+  "is_series": false,
+  "series_name": null,
+  "author_total_works": 6,
+  "author_birth_date": null,
+  "ol_subjects": [
+    "Anti-fascist movements",
+    "History",
+    "Protest movements",
+    "Fascism",
+    "Anti-fascist movements -- History",
+    "Anti-fascist movements -- United States",
+    "POLITICAL SCIENCE / Political Ideologies / Fascism & Totalitarianism",
+    "SOCIAL SCIENCE / Violence in Society",
+    "HISTORY / Europe / Western"
+  ],
+  "ol_first_publish_year": 2017
+}

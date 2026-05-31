@@ -1,0 +1,27 @@
+{
+  "primary_isbn13": "9780593306635",
+  "ol_author_name": "Philip Pullman",
+  "ol_publisher": "Knopf Books",
+  "ol_languages": [
+    "eng"
+  ],
+  "ol_ebook_access": "no_ebook",
+  "ol_has_fulltext": false,
+  "ol_public_scan": false,
+  "ol_internet_archive_ids": [],
+  "ol_edition_count": 5,
+  "ol_number_of_pages": 680,
+  "is_series": true,
+  "series_name": {
+    "series": {
+      "key": "/series/OL330757L"
+    },
+    "position": "3"
+  },
+  "author_total_works": 100,
+  "author_birth_date": "19 October 1946",
+  "ol_subjects": [
+    "Children's fiction"
+  ],
+  "ol_first_publish_year": 2025
+}

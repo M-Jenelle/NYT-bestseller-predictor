@@ -1,0 +1,24 @@
+{
+  "primary_isbn13": "9780593820247",
+  "ol_author_name": "Matt Dinniman",
+  "ol_publisher": "Ace",
+  "ol_languages": [
+    "eng"
+  ],
+  "ol_ebook_access": "no_ebook",
+  "ol_has_fulltext": false,
+  "ol_public_scan": false,
+  "ol_internet_archive_ids": [],
+  "ol_edition_count": 10,
+  "ol_number_of_pages": 465,
+  "is_series": true,
+  "series_name": "series:Dungeon Crawler Carl",
+  "author_total_works": 25,
+  "author_birth_date": null,
+  "ol_subjects": [
+    "series:Dungeon Crawler Carl",
+    "genre:LitRPG",
+    "genre:science fantasy"
+  ],
+  "ol_first_publish_year": 2020
+}

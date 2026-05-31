@@ -1,0 +1,46 @@
+{
+  "primary_isbn13": "9780525562627",
+  "ol_author_name": "Margaret Atwood",
+  "ol_publisher": "Anchor",
+  "ol_languages": [
+    "cat",
+    "spa",
+    "ita",
+    "fre",
+    "por",
+    "eng"
+  ],
+  "ol_ebook_access": "printdisabled",
+  "ol_has_fulltext": true,
+  "ol_public_scan": false,
+  "ol_internet_archive_ids": [
+    "isbn_9782221254547",
+    "isbn_9780771009457",
+    "testaments0000atwo_i8h1",
+    "lostestamentos0000atwo",
+    "elstestaments0000marg",
+    "testaments0000atwo_h2n4",
+    "testaments0000atwo_b9p6",
+    "testaments0000atwo",
+    "testaments0000atwo_t6f6"
+  ],
+  "ol_edition_count": 23,
+  "ol_number_of_pages": 448,
+  "is_series": false,
+  "series_name": null,
+  "author_total_works": 100,
+  "author_birth_date": "18 November 1939",
+  "ol_subjects": [
+    "Science Fiction",
+    "Young adult fiction",
+    "Dystopian Fiction",
+    "Fiction, dystopian",
+    "Fiction, fantasy, general",
+    "Canadian fiction (fictional works by one author)",
+    "nyt:combined-print-and-e-book-fiction=2019-09-29",
+    "New York Times bestseller",
+    "collectionID:ConroeChallenge",
+    "Surrogate mothers"
+  ],
+  "ol_first_publish_year": 2019
+}

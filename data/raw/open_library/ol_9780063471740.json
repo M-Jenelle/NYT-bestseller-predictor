@@ -1,0 +1,46 @@
+{
+  "primary_isbn13": "9780063471740",
+  "ol_author_name": "Gregory Maguire",
+  "ol_publisher": "HarperCollins Publishers",
+  "ol_languages": [
+    "eng"
+  ],
+  "ol_ebook_access": "printdisabled",
+  "ol_has_fulltext": true,
+  "ol_public_scan": false,
+  "ol_internet_archive_ids": [
+    "wickedmemoriasde0000magu",
+    "wickedlifetimesomagu00magu",
+    "wickedlifetimeso00magu",
+    "isbn_9780061649424",
+    "wickedlifetimeso00magu_0",
+    "wickedlifetim00magu",
+    "wickedlifetim00magu",
+    "wickedlifetimeso0000magu_d7h2",
+    "wickedmemoriasde0000magu_q0p3"
+  ],
+  "ol_edition_count": 54,
+  "ol_number_of_pages": 480,
+  "is_series": true,
+  "series_name": {
+    "series": {
+      "key": "/series/OL330982L"
+    },
+    "position": "1"
+  },
+  "author_total_works": 62,
+  "author_birth_date": null,
+  "ol_subjects": [
+    "Love",
+    "Witches",
+    "Fiction",
+    "Oz (Imaginary place)",
+    "Brujas",
+    "Novela",
+    "Oz (Lugar imaginario)",
+    "Novela fant\u00e1stica",
+    "Spanish language materials",
+    "Fiction, fantasy, general"
+  ],
+  "ol_first_publish_year": 1995
+}

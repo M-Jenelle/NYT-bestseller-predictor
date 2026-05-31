@@ -1,0 +1,24 @@
+{
+  "primary_isbn13": "9781538704431",
+  "ol_author_name": "Abby Jimenez",
+  "ol_publisher": "Grand Central Publishing",
+  "ol_languages": [
+    "eng"
+  ],
+  "ol_ebook_access": "no_ebook",
+  "ol_has_fulltext": false,
+  "ol_public_scan": false,
+  "ol_internet_archive_ids": [],
+  "ol_edition_count": 6,
+  "ol_number_of_pages": null,
+  "is_series": false,
+  "series_name": null,
+  "author_total_works": 16,
+  "author_birth_date": null,
+  "ol_subjects": [
+    "American literature",
+    "nyt:combined-print-and-e-book-fiction=2024-04-21",
+    "New York Times bestseller"
+  ],
+  "ol_first_publish_year": 2024
+}

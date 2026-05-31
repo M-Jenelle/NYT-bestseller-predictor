@@ -1,0 +1,33 @@
+{
+  "primary_isbn13": "9781419760877",
+  "ol_author_name": "Alex Aster",
+  "ol_publisher": "Amulet Paperbacks",
+  "ol_languages": [
+    "eng",
+    "fre",
+    "spa"
+  ],
+  "ol_ebook_access": "no_ebook",
+  "ol_has_fulltext": false,
+  "ol_public_scan": false,
+  "ol_internet_archive_ids": [],
+  "ol_edition_count": 8,
+  "ol_number_of_pages": 432,
+  "is_series": true,
+  "series_name": "Series:Lightlark",
+  "author_total_works": 11,
+  "author_birth_date": "4 August 1995",
+  "ol_subjects": [
+    "nyt:young-adult-hardcover=2022-09-11",
+    "New York Times bestseller",
+    "nyt:young-adult-paperback-monthly=2023-11-12",
+    "Series:Lightlark",
+    "Young adult fiction, fantasy, dark fantasy",
+    "Young adult fiction, romance, general",
+    "Young adult fiction, thrillers & suspense, general",
+    "Fantasy",
+    "Romantasy",
+    "Romance"
+  ],
+  "ol_first_publish_year": 2022
+}

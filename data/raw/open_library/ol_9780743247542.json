@@ -1,0 +1,45 @@
+{
+  "primary_isbn13": "9780743247542",
+  "ol_author_name": "Jeannette Walls",
+  "ol_publisher": "Scribner",
+  "ol_languages": [
+    "eng"
+  ],
+  "ol_ebook_access": "borrowable",
+  "ol_has_fulltext": true,
+  "ol_public_scan": false,
+  "ol_internet_archive_ids": [
+    "elcastillodecris0000wall",
+    "lechateaudeverre0000wall",
+    "bolichengbaoglas0000wall",
+    "glasscastlememoi0000wall_c6u0",
+    "glasscastlememoi0000wall_d1r4",
+    "glasscastle0000wall",
+    "glasscastle0000wall_w2a3",
+    "isbn_9781603962100",
+    "glasscastlememoi00jean",
+    "glasscastlememoi0000wall_j5d8",
+    "glasscastlememoi0000wall_d2o1",
+    "glasscastlememoi0000wall",
+    "glasscastlememoi00wall"
+  ],
+  "ol_edition_count": 32,
+  "ol_number_of_pages": 288,
+  "is_series": false,
+  "series_name": null,
+  "author_total_works": 17,
+  "author_birth_date": "April 21, 1960",
+  "ol_subjects": [
+    "Poor",
+    "Problem families",
+    "Dysfunctional families",
+    "Homeless persons",
+    "Case studies",
+    "New York Times bestseller",
+    "Family relationships",
+    "nyt:paperback_nonfiction=2007-03-03",
+    "Biography",
+    "Children of alcoholics"
+  ],
+  "ol_first_publish_year": 2005
+}

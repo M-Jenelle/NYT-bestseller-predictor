@@ -1,0 +1,27 @@
+{
+  "primary_isbn13": "9781638932253",
+  "ol_author_name": "Navessa Allen",
+  "ol_publisher": "Slowburn / Zando",
+  "ol_languages": [
+    "eng"
+  ],
+  "ol_ebook_access": "no_ebook",
+  "ol_has_fulltext": false,
+  "ol_public_scan": false,
+  "ol_internet_archive_ids": [],
+  "ol_edition_count": 2,
+  "ol_number_of_pages": 340,
+  "is_series": true,
+  "series_name": {
+    "series": {
+      "key": "/series/OL329278L"
+    },
+    "position": "2"
+  },
+  "author_total_works": 11,
+  "author_birth_date": null,
+  "ol_subjects": [
+    "American literature"
+  ],
+  "ol_first_publish_year": 2025
+}

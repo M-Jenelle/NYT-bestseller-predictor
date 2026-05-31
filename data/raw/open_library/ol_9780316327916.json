@@ -1,0 +1,33 @@
+{
+  "primary_isbn13": "9780316327916",
+  "ol_author_name": "Malala Yousafzai",
+  "ol_publisher": "Little, Brown Books for Young Readers",
+  "ol_languages": [
+    "eng"
+  ],
+  "ol_ebook_access": "printdisabled",
+  "ol_has_fulltext": true,
+  "ol_public_scan": false,
+  "ol_internet_archive_ids": [
+    "iammalalahowoneg0000yous_h1p1"
+  ],
+  "ol_edition_count": 5,
+  "ol_number_of_pages": 256,
+  "is_series": false,
+  "series_name": null,
+  "author_total_works": 24,
+  "author_birth_date": "1997",
+  "ol_subjects": [
+    "Young women",
+    "Education",
+    "Children's rights",
+    "Biography",
+    "History",
+    "Pakistan, juvenile literature",
+    "Pakistan, history",
+    "Women, education",
+    "Education, juvenile literature",
+    "Children, juvenile literature"
+  ],
+  "ol_first_publish_year": 2014
+}

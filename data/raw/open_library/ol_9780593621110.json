@@ -1,0 +1,30 @@
+{
+  "primary_isbn13": "9780593621110",
+  "ol_author_name": "Drew Daywalt",
+  "ol_publisher": "Penguin Young Readers Group",
+  "ol_languages": [
+    "eng"
+  ],
+  "ol_ebook_access": "no_ebook",
+  "ol_has_fulltext": false,
+  "ol_public_scan": false,
+  "ol_internet_archive_ids": [],
+  "ol_edition_count": 5,
+  "ol_number_of_pages": null,
+  "is_series": true,
+  "series_name": "series:The_Crayons",
+  "author_total_works": 29,
+  "author_birth_date": "5 January 1970",
+  "ol_subjects": [
+    "nyt:picture-books=2023-06-04",
+    "New York Times bestseller",
+    "Juvenile",
+    "series:The_Crayons",
+    "Children's fiction",
+    "Humorous stories",
+    "Friendship, fiction",
+    "Color, fiction",
+    "Schools, fiction"
+  ],
+  "ol_first_publish_year": 2023
+}

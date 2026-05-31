@@ -1,0 +1,40 @@
+{
+  "primary_isbn13": "9780374533557",
+  "ol_author_name": "Daniel Kahneman",
+  "ol_publisher": "Farrar, Straus and Giroux",
+  "ol_languages": [
+    "eng"
+  ],
+  "ol_ebook_access": "borrowable",
+  "ol_has_fulltext": true,
+  "ol_public_scan": false,
+  "ol_internet_archive_ids": [
+    "onsfeilbaredenke0000kahn",
+    "thinkingfastslow0000unse",
+    "sikaokuaiyuman0000kahn",
+    "schnellesdenkenl0000kahn",
+    "kuaisimanxiang0000kahn",
+    "thinkingfastslow0000kahn_b1q8",
+    "thinkingfastslow0000kahn_x5z0",
+    "thinkingfastslow0000kahn_o1l6"
+  ],
+  "ol_edition_count": 35,
+  "ol_number_of_pages": 499,
+  "is_series": false,
+  "series_name": null,
+  "author_total_works": 28,
+  "author_birth_date": "March 5, 1934",
+  "ol_subjects": [
+    "Intuition",
+    "Thought and thinking",
+    "Reasoning",
+    "Decision making",
+    "New York Times bestseller",
+    "Long Now Manual for Civilization",
+    "Thinking",
+    "Kognition",
+    "77.32 intelligence, creativity",
+    "New York Times reviewed"
+  ],
+  "ol_first_publish_year": 2011
+}

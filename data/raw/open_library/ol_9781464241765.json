@@ -1,0 +1,41 @@
+{
+  "primary_isbn13": "9781464241765",
+  "ol_author_name": "Elle Kennedy",
+  "ol_publisher": "Bloom Books",
+  "ol_languages": [
+    "eng"
+  ],
+  "ol_ebook_access": "borrowable",
+  "ol_has_fulltext": true,
+  "ol_public_scan": false,
+  "ol_internet_archive_ids": [
+    "deal0000elle",
+    "dealreineverhand0000unse",
+    "dealoffcampusnov0000kenn",
+    "ukad0000kenn"
+  ],
+  "ol_edition_count": 14,
+  "ol_number_of_pages": 400,
+  "is_series": true,
+  "series_name": {
+    "series": {
+      "key": "/series/OL334331L"
+    },
+    "position": "1"
+  },
+  "author_total_works": 90,
+  "author_birth_date": "30 December 1979",
+  "ol_subjects": [
+    "College students",
+    "Fiction",
+    "Hockey players",
+    "Fake dating",
+    "Friends to lovers",
+    "Enemies to lovers",
+    "Hockey",
+    "Sports romance",
+    "Swoonworthy hero",
+    "Strong heroine"
+  ],
+  "ol_first_publish_year": 2000
+}

@@ -1,0 +1,23 @@
+{
+  "primary_isbn13": "9780385348744",
+  "ol_author_name": "Erik Larson",
+  "ol_publisher": "Crown Publishing Group, The",
+  "ol_languages": [
+    "eng"
+  ],
+  "ol_ebook_access": "no_ebook",
+  "ol_has_fulltext": false,
+  "ol_public_scan": false,
+  "ol_internet_archive_ids": [],
+  "ol_edition_count": 10,
+  "ol_number_of_pages": null,
+  "is_series": false,
+  "series_name": null,
+  "author_total_works": 34,
+  "author_birth_date": null,
+  "ol_subjects": [
+    "nyt:combined-print-and-e-book-nonfiction=2024-05-19",
+    "New York Times bestseller"
+  ],
+  "ol_first_publish_year": 2024
+}

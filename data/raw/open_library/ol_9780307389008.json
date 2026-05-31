@@ -1,0 +1,40 @@
+{
+  "primary_isbn13": "9780307389008",
+  "ol_author_name": "Tim Weiner",
+  "ol_publisher": "Anchor",
+  "ol_languages": [
+    "eng"
+  ],
+  "ol_ebook_access": "borrowable",
+  "ol_has_fulltext": true,
+  "ol_public_scan": false,
+  "ol_internet_archive_ids": [
+    "eenspoorvanverni0000wein",
+    "ciadieganzegesch0000wein_b2s7",
+    "ciadieganzegesch0000wein",
+    "kullerinmirasbir0000wein",
+    "descendresenhrit0000timw",
+    "legadodecenizasl0000wein",
+    "legacyofasheshis0000wein_a4y7",
+    "legacyofasheshis00wein"
+  ],
+  "ol_edition_count": 24,
+  "ol_number_of_pages": 752,
+  "is_series": false,
+  "series_name": null,
+  "author_total_works": 8,
+  "author_birth_date": null,
+  "ol_subjects": [
+    "United States",
+    "CIA",
+    "Histoire",
+    "award:national_book_award=2007",
+    "National Book Award Winner",
+    "\u00c9tats-Unis",
+    "United States. Central Intelligence Agency",
+    "Intelligence service",
+    "\u00c9tats-Unis. Central Intelligence Agency",
+    "Nonfiction"
+  ],
+  "ol_first_publish_year": 2007
+}

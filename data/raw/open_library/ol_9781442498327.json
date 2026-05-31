@@ -1,0 +1,36 @@
+{
+  "primary_isbn13": "9781442498327",
+  "ol_author_name": "Jenny Han",
+  "ol_publisher": "Simon & Schuster Books For Young Readers",
+  "ol_languages": [
+    "eng"
+  ],
+  "ol_ebook_access": "printdisabled",
+  "ol_has_fulltext": true,
+  "ol_public_scan": false,
+  "ol_internet_archive_ids": [
+    "summeriturnedpre0000hanj_m5v1",
+    "summeriturnedpre0000unse"
+  ],
+  "ol_edition_count": 12,
+  "ol_number_of_pages": 928,
+  "is_series": true,
+  "series_name": {
+    "series": {
+      "key": "/series/OL331001L"
+    },
+    "position": "1-3"
+  },
+  "author_total_works": 66,
+  "author_birth_date": "3 September 1980",
+  "ol_subjects": [
+    "Children's fiction",
+    "Friendship, fiction",
+    "Love, fiction",
+    "Interpersonal relations, fiction",
+    "Seashore, fiction",
+    "Vacations, fiction",
+    "Summer, fiction"
+  ],
+  "ol_first_publish_year": 2009
+}

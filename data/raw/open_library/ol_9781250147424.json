@@ -1,0 +1,29 @@
+{
+  "primary_isbn13": "9781250147424",
+  "ol_author_name": "Katherine Applegate",
+  "ol_publisher": "Feiwel & Friends",
+  "ol_languages": [
+    "eng"
+  ],
+  "ol_ebook_access": "printdisabled",
+  "ol_has_fulltext": true,
+  "ol_public_scan": false,
+  "ol_internet_archive_ids": [
+    "odder0000appl"
+  ],
+  "ol_edition_count": 6,
+  "ol_number_of_pages": null,
+  "is_series": false,
+  "series_name": null,
+  "author_total_works": 100,
+  "author_birth_date": "1956-10-09",
+  "ol_subjects": [
+    "nyt:childrens-middle-grade-hardcover=2022-10-09",
+    "New York Times bestseller",
+    "Friendship, fiction",
+    "Marine animals, fiction",
+    "Children's fiction",
+    "Otters, fiction"
+  ],
+  "ol_first_publish_year": 2022
+}

@@ -1,0 +1,29 @@
+{
+  "primary_isbn13": "9781524792688",
+  "ol_author_name": "Drew Daywalt",
+  "ol_publisher": "Penguin Workshop",
+  "ol_languages": [
+    "eng"
+  ],
+  "ol_ebook_access": "no_ebook",
+  "ol_has_fulltext": false,
+  "ol_public_scan": false,
+  "ol_internet_archive_ids": [],
+  "ol_edition_count": 5,
+  "ol_number_of_pages": null,
+  "is_series": true,
+  "series_name": "series:The_Crayons",
+  "author_total_works": 29,
+  "author_birth_date": "5 January 1970",
+  "ol_subjects": [
+    "nyt:picture-books=2020-01-26",
+    "New York Times bestseller",
+    "Children's fiction",
+    "Crayon drawing, fiction",
+    "Color, fiction",
+    "Love, fiction",
+    "Juvenile",
+    "series:The_Crayons"
+  ],
+  "ol_first_publish_year": 2019
+}

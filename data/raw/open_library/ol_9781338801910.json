@@ -1,0 +1,28 @@
+{
+  "primary_isbn13": "9781338801910",
+  "ol_author_name": "Dav Pilkey",
+  "ol_publisher": "Scholastic",
+  "ol_languages": [
+    "eng"
+  ],
+  "ol_ebook_access": "no_ebook",
+  "ol_has_fulltext": false,
+  "ol_public_scan": false,
+  "ol_internet_archive_ids": [],
+  "ol_edition_count": 11,
+  "ol_number_of_pages": 240,
+  "is_series": true,
+  "series_name": {
+    "series": {
+      "key": "/series/OL329664L"
+    },
+    "position": "11"
+  },
+  "author_total_works": 100,
+  "author_birth_date": "4 March 1966",
+  "ol_subjects": [
+    "nyt:graphic-books-and-manga=2023-04-09",
+    "New York Times bestseller"
+  ],
+  "ol_first_publish_year": 2023
+}

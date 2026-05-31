@@ -1,0 +1,42 @@
+{
+  "primary_isbn13": "9781984896391",
+  "ol_author_name": "Holly Jackson",
+  "ol_publisher": "Ember",
+  "ol_languages": [
+    "pol",
+    "ita",
+    "ger",
+    "spa",
+    "heb",
+    "dut",
+    "ang",
+    "tur",
+    "por",
+    "eng"
+  ],
+  "ol_ebook_access": "printdisabled",
+  "ol_has_fulltext": true,
+  "ol_public_scan": false,
+  "ol_internet_archive_ids": [
+    "goodgirlsguideto0000unse_z0n0"
+  ],
+  "ol_edition_count": 38,
+  "ol_number_of_pages": 400,
+  "is_series": true,
+  "series_name": "series:A_Good_Girl's_Guide_to_Murder",
+  "author_total_works": 10,
+  "author_birth_date": "1992",
+  "ol_subjects": [
+    "Cold cases (Criminal investigation)--Fiction.",
+    "Murder--Fiction.",
+    "Mystery and detective stories.",
+    "Children's fiction",
+    "Murder, fiction",
+    "Mystery and detective stories",
+    "Criminals, fiction",
+    "Young adult fiction, law & crime",
+    "Young adult fiction, social themes, prejudice & racism",
+    "Young adult fiction, thrillers & suspense"
+  ],
+  "ol_first_publish_year": 2019
+}

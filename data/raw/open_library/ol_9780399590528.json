@@ -1,0 +1,33 @@
+{
+  "primary_isbn13": "9780399590528",
+  "ol_author_name": "Tara Westover",
+  "ol_publisher": "Random House Publishing Group",
+  "ol_languages": [
+    "eng"
+  ],
+  "ol_ebook_access": "printdisabled",
+  "ol_has_fulltext": true,
+  "ol_public_scan": false,
+  "ol_internet_archive_ids": [
+    "isbn_9780593091876"
+  ],
+  "ol_edition_count": 35,
+  "ol_number_of_pages": null,
+  "is_series": false,
+  "series_name": null,
+  "author_total_works": 1,
+  "author_birth_date": "1986",
+  "ol_subjects": [
+    "Subculture",
+    "Home schooling",
+    "Family",
+    "Anecdotes",
+    "Victims of family violence",
+    "Women college students",
+    "Christian biography",
+    "Rural conditions",
+    "Survivalism",
+    "Biography"
+  ],
+  "ol_first_publish_year": 2018
+}

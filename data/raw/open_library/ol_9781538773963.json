@@ -1,0 +1,27 @@
+{
+  "primary_isbn13": "9781538773963",
+  "ol_author_name": "Patricia Cornwell",
+  "ol_publisher": "Grand Central Publishing, a division of Hachette Book Group",
+  "ol_languages": [
+    "eng"
+  ],
+  "ol_ebook_access": "no_ebook",
+  "ol_has_fulltext": false,
+  "ol_public_scan": false,
+  "ol_internet_archive_ids": [],
+  "ol_edition_count": 4,
+  "ol_number_of_pages": 396,
+  "is_series": true,
+  "series_name": {
+    "series": {
+      "key": "/series/OL334858L"
+    },
+    "position": "29"
+  },
+  "author_total_works": 100,
+  "author_birth_date": "1956",
+  "ol_subjects": [
+    "American literature"
+  ],
+  "ol_first_publish_year": 2025
+}

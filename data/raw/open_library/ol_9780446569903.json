@@ -1,0 +1,35 @@
+{
+  "primary_isbn13": "9780446569903",
+  "ol_author_name": "Ozzy Osbourne",
+  "ol_publisher": "Grand Central Publishing",
+  "ol_languages": [
+    "eng"
+  ],
+  "ol_ebook_access": "printdisabled",
+  "ol_has_fulltext": true,
+  "ol_public_scan": false,
+  "ol_internet_archive_ids": [
+    "iamozzy0000osbo_p1d4",
+    "iamozzy0000osbo",
+    "iamozzy0000osbo_k5f9"
+  ],
+  "ol_edition_count": 5,
+  "ol_number_of_pages": null,
+  "is_series": false,
+  "series_name": null,
+  "author_total_works": 51,
+  "author_birth_date": "1948",
+  "ol_subjects": [
+    "Biography & Autobiography",
+    "Music",
+    "Nonfiction",
+    "Osbourne, ozzy, 1948-",
+    "Rock musicians, great britain",
+    "Rock musicians, biography",
+    "Rock musicians",
+    "Biography",
+    "Rock music",
+    "Black Sabbath (Musical group)"
+  ],
+  "ol_first_publish_year": 2009
+}

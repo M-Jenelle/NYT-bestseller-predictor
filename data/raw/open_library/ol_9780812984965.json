@@ -1,0 +1,37 @@
+{
+  "primary_isbn13": "9780812984965",
+  "ol_author_name": "Bryan Stevenson",
+  "ol_publisher": "Spiegel & Grau",
+  "ol_languages": [
+    "eng"
+  ],
+  "ol_ebook_access": "borrowable",
+  "ol_has_fulltext": true,
+  "ol_public_scan": false,
+  "ol_internet_archive_ids": [
+    "ohnegnadepolizei0000unse",
+    "bwb_O8-AEO-669",
+    "justmercystoryof0000stev",
+    "justmercystoryof0000stev_j1v1",
+    "isbn_9780812984965"
+  ],
+  "ol_edition_count": 20,
+  "ol_number_of_pages": 349,
+  "is_series": false,
+  "series_name": null,
+  "author_total_works": 16,
+  "author_birth_date": null,
+  "ol_subjects": [
+    "Autobiographies",
+    "Biography",
+    "Biographies",
+    "Equal Justice Initiative",
+    "lawyers",
+    "social reformers",
+    "administration of criminal justice",
+    "discrimination in criminal justice administration",
+    "legal assistance to the poor",
+    "false imprisonment"
+  ],
+  "ol_first_publish_year": 1600
+}

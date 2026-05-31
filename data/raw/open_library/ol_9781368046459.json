@@ -1,0 +1,31 @@
+{
+  "primary_isbn13": "9781368046459",
+  "ol_author_name": "Mo Willems",
+  "ol_publisher": "Hyperion Books for Children",
+  "ol_languages": [
+    "cat",
+    "spa",
+    "eng"
+  ],
+  "ol_ebook_access": "no_ebook",
+  "ol_has_fulltext": false,
+  "ol_public_scan": false,
+  "ol_internet_archive_ids": [],
+  "ol_edition_count": 4,
+  "ol_number_of_pages": 40,
+  "is_series": false,
+  "series_name": null,
+  "author_total_works": 100,
+  "author_birth_date": "11 Feb 1968",
+  "ol_subjects": [
+    "Children's fiction",
+    "First day of school, fiction",
+    "Fear, fiction",
+    "Schools, fiction",
+    "Pigeons, fiction",
+    "Humorous stories",
+    "nyt:picture-books=2019-07-21",
+    "New York Times bestseller"
+  ],
+  "ol_first_publish_year": 2019
+}

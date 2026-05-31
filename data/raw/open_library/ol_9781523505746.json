@@ -1,0 +1,27 @@
+{
+  "primary_isbn13": "9781523505746",
+  "ol_author_name": "Ramit Sethi",
+  "ol_publisher": "Workman Publishing Company",
+  "ol_languages": [
+    "eng"
+  ],
+  "ol_ebook_access": "no_ebook",
+  "ol_has_fulltext": false,
+  "ol_public_scan": false,
+  "ol_internet_archive_ids": [],
+  "ol_edition_count": 2,
+  "ol_number_of_pages": 352,
+  "is_series": false,
+  "series_name": null,
+  "author_total_works": 8,
+  "author_birth_date": null,
+  "ol_subjects": [
+    "Finance",
+    "nyt:business-books=2019-07-07",
+    "New York Times bestseller",
+    "Finance, personal",
+    "Wealth",
+    "Investments"
+  ],
+  "ol_first_publish_year": 2019
+}

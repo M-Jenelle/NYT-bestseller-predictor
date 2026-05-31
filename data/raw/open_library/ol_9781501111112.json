@@ -1,0 +1,35 @@
+{
+  "primary_isbn13": "9781501111112",
+  "ol_author_name": "Angela Duckworth",
+  "ol_publisher": "Scribner",
+  "ol_languages": [
+    "eng",
+    "spa"
+  ],
+  "ol_ebook_access": "printdisabled",
+  "ol_has_fulltext": true,
+  "ol_public_scan": false,
+  "ol_internet_archive_ids": [
+    "gritelpoderdelap0000duck",
+    "gritpowerofpassi0000duck_j7c0"
+  ],
+  "ol_edition_count": 14,
+  "ol_number_of_pages": 368,
+  "is_series": false,
+  "series_name": null,
+  "author_total_works": 9,
+  "author_birth_date": null,
+  "ol_subjects": [
+    "leadership",
+    "business",
+    "Personality",
+    "Perseverance (Ethics.)",
+    "Psychology",
+    "Success",
+    "Expectation (Psychology.)",
+    "Erfolg",
+    "Erfolgsstreben",
+    "Selbstverwirklichung"
+  ],
+  "ol_first_publish_year": 2016
+}

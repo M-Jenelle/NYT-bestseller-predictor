@@ -1,0 +1,22 @@
+.env
+.venv/
+__pycache__/
+*.pyc
+**/.DS_Store
+
+# Runtime logs and local build caches
+logs/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Local-only duplicate/project shell
+NYT-bestseller-predictor/
+RESTART_CHECKPOINT.md
+
+# Data/API cache files that can be regenerated
+data/raw/google_books/
+
+# Local collector scratch/live tests
+test_ol_collector.py
+test_open_library_collector.py

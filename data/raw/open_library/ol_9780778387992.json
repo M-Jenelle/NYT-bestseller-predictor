@@ -1,0 +1,31 @@
+{
+  "primary_isbn13": "9780778387992",
+  "ol_author_name": "Mary Kubica",
+  "ol_publisher": "Park Row",
+  "ol_languages": [
+    "eng"
+  ],
+  "ol_ebook_access": "no_ebook",
+  "ol_has_fulltext": false,
+  "ol_public_scan": false,
+  "ol_internet_archive_ids": [],
+  "ol_edition_count": 2,
+  "ol_number_of_pages": 342,
+  "is_series": false,
+  "series_name": null,
+  "author_total_works": 54,
+  "author_birth_date": "1978",
+  "ol_subjects": [
+    "Fiction",
+    "Thriller",
+    "Domestic Thriller",
+    "psychological thriller",
+    "suspense thriller",
+    "Mystery",
+    "Mystery Thriller",
+    "Suspense",
+    "Crime",
+    "Adult"
+  ],
+  "ol_first_publish_year": 2026
+}

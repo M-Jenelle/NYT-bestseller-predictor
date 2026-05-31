@@ -1,0 +1,11 @@
+feature,source,feature_type,why_it_may_help
+primary_genre,Google Books,categorical,Genre/category may strongly affect bestseller shelf life and target audience.
+nyt_list_name,NYT,categorical,"Different NYT lists behave differently; children's books, fiction, and nonfiction may have different staying power."
+page_count / ol_number_of_pages,Google Books + Open Library,numeric,"Length may separate children's books, novels, nonfiction, and reference-style books."
+google_pub_month,Google Books,date/seasonality,Publication timing may matter because some genres are seasonal.
+description_word_count,Google Books,text-derived numeric,Richer metadata could correlate with better match quality or more commercially supported releases.
+average_rating / ratings_count,Google Books,numeric,"Reader engagement could help, but missingness is very high so these should be used carefully."
+is_series / series_name,Open Library,categorical/boolean,Series books may have built-in audiences and repeat demand.
+author_total_works,Open Library,numeric,Author productivity/popularity proxy; prolific authors may have more existing audience awareness.
+ol_edition_count,Open Library,numeric,"More editions can proxy for popularity, longevity, translations, or reprints."
+ol_ebook_access / ol_has_fulltext,Open Library,categorical/boolean,Availability/access fields may signal older/public/archived books versus newer commercial releases.

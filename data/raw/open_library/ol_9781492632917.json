@@ -1,0 +1,34 @@
+{
+  "primary_isbn13": "9781492632917",
+  "ol_author_name": "Adam Wallace",
+  "ol_publisher": null,
+  "ol_languages": [
+    "eng"
+  ],
+  "ol_ebook_access": "borrowable",
+  "ol_has_fulltext": true,
+  "ol_public_scan": false,
+  "ol_internet_archive_ids": [
+    "howtocatchleprec0000adam",
+    "howtocatchleprec0000wall"
+  ],
+  "ol_edition_count": 3,
+  "ol_number_of_pages": null,
+  "is_series": false,
+  "series_name": null,
+  "author_total_works": 73,
+  "author_birth_date": null,
+  "ol_subjects": [
+    "Leprechauns",
+    "Trapping",
+    "Juvenile fiction",
+    "Fiction",
+    "Stories in rhyme",
+    "Booby traps",
+    "Saint Patrick's Day",
+    "Design and construction",
+    "nyt:picture-books=2016-03-20",
+    "New York Times bestseller"
+  ],
+  "ol_first_publish_year": 2016
+}

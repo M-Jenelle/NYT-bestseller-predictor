@@ -1,0 +1,33 @@
+{
+  "primary_isbn13": "9780593135228",
+  "ol_author_name": "Andy Weir",
+  "ol_publisher": "Ballantine Books",
+  "ol_languages": [
+    "eng"
+  ],
+  "ol_ebook_access": "printdisabled",
+  "ol_has_fulltext": true,
+  "ol_public_scan": false,
+  "ol_internet_archive_ids": [
+    "projecthailmaryn0000andy"
+  ],
+  "ol_edition_count": 30,
+  "ol_number_of_pages": 496,
+  "is_series": false,
+  "series_name": null,
+  "author_total_works": 13,
+  "author_birth_date": "16 June 1972",
+  "ol_subjects": [
+    "hard science-fiction",
+    "science-fiction",
+    "sci-fi",
+    "hard sci-fi",
+    "nyt:hardcover-fiction=2021-05-23",
+    "New York Times bestseller",
+    "New York Times reviewed",
+    "Fiction, science fiction, action & adventure",
+    "Fiction, science fiction, hard science fiction",
+    "End of the world"
+  ],
+  "ol_first_publish_year": 2021
+}

@@ -1,0 +1,40 @@
+{
+  "primary_isbn13": "9780399588198",
+  "ol_author_name": "Trevor Noah",
+  "ol_publisher": "Spiegel & Grau",
+  "ol_languages": [
+    "eng"
+  ],
+  "ol_ebook_access": "printdisabled",
+  "ol_has_fulltext": true,
+  "ol_public_scan": false,
+  "ol_internet_archive_ids": [
+    "tianshengyouzuit0000noah",
+    "borncrimeotherst0000noah",
+    "borncrimestories0000noah_m8t8",
+    "borncrimestories0000noah_y0y6",
+    "borncrimestories0000noah_s0h5",
+    "borncrimestories0000noah_y8i5",
+    "borncrimestories0000noah",
+    "cd_born-a-crime_trevor-noah"
+  ],
+  "ol_edition_count": 26,
+  "ol_number_of_pages": 290,
+  "is_series": false,
+  "series_name": null,
+  "author_total_works": 5,
+  "author_birth_date": null,
+  "ol_subjects": [
+    "apartheid",
+    "PERFORMING ARTS",
+    "HUMOR",
+    "Television personalities",
+    "Personal Memoirs",
+    "PERFORMING ARTS / Comedy",
+    "BIOGRAPHY & AUTOBIOGRAPHY",
+    "HUMOR / Form / Essays",
+    "Essays",
+    "Comedy"
+  ],
+  "ol_first_publish_year": 2016
+}

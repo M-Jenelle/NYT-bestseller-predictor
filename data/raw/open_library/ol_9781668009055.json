@@ -1,0 +1,29 @@
+{
+  "primary_isbn13": "9781668009055",
+  "ol_author_name": "Britney Spears",
+  "ol_publisher": "Gallery Books",
+  "ol_languages": [
+    "eng"
+  ],
+  "ol_ebook_access": "no_ebook",
+  "ol_has_fulltext": false,
+  "ol_public_scan": false,
+  "ol_internet_archive_ids": [],
+  "ol_edition_count": 8,
+  "ol_number_of_pages": 288,
+  "is_series": false,
+  "series_name": null,
+  "author_total_works": 19,
+  "author_birth_date": null,
+  "ol_subjects": [
+    "Biography/Autobiography",
+    "nyt:combined-print-and-e-book-nonfiction=2023-11-12",
+    "New York Times bestseller",
+    "Singers, biography",
+    "Women, united states, biography",
+    "Personal memoirs",
+    "Biography",
+    "celebrity biography"
+  ],
+  "ol_first_publish_year": 2023
+}

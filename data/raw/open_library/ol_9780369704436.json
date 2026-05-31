@@ -1,0 +1,36 @@
+{
+  "primary_isbn13": "9780369704436",
+  "ol_author_name": "Rachel Reid",
+  "ol_publisher": "Harlequin Enterprises ULC",
+  "ol_languages": [
+    "eng"
+  ],
+  "ol_ebook_access": "no_ebook",
+  "ol_has_fulltext": false,
+  "ol_public_scan": false,
+  "ol_internet_archive_ids": [],
+  "ol_edition_count": 3,
+  "ol_number_of_pages": null,
+  "is_series": true,
+  "series_name": {
+    "series": {
+      "key": "/series/OL331100L"
+    },
+    "position": "6"
+  },
+  "author_total_works": 18,
+  "author_birth_date": "02 September 1980",
+  "ol_subjects": [
+    "Series:Game-Changers",
+    "LGTBI",
+    "Fiction, romance, contemporary",
+    "Romance",
+    "Sports Romance",
+    "Hockey",
+    "M M Romance",
+    "Sports",
+    "Contemporary",
+    "Queer"
+  ],
+  "ol_first_publish_year": 2022
+}

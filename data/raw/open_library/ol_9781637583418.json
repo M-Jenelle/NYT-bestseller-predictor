@@ -1,0 +1,25 @@
+{
+  "primary_isbn13": "9781637583418",
+  "ol_author_name": "Charlie Kirk",
+  "ol_publisher": "Permuted Press",
+  "ol_languages": [
+    "eng"
+  ],
+  "ol_ebook_access": "borrowable",
+  "ol_has_fulltext": true,
+  "ol_public_scan": false,
+  "ol_internet_archive_ids": [
+    "timeforturningpo0000kirk"
+  ],
+  "ol_edition_count": 2,
+  "ol_number_of_pages": 290,
+  "is_series": false,
+  "series_name": null,
+  "author_total_works": 5,
+  "author_birth_date": null,
+  "ol_subjects": [
+    "Free enterprise",
+    "United states, politics and government, 20th century"
+  ],
+  "ol_first_publish_year": 2016
+}

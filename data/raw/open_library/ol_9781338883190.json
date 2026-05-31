@@ -1,0 +1,42 @@
+{
+  "primary_isbn13": "9781338883190",
+  "ol_author_name": "Tui T. Sutherland",
+  "ol_publisher": "Scholastic Inc.",
+  "ol_languages": [
+    "eng"
+  ],
+  "ol_ebook_access": "printdisabled",
+  "ol_has_fulltext": true,
+  "ol_public_scan": false,
+  "ol_internet_archive_ids": [
+    "dragonetprophecy0000tuit_g9c4",
+    "wingsoffire01dra0000tuit",
+    "dragonetprophecy0000suth",
+    "dragonetprophecy0000suth_e5k3",
+    "dragonetprophecy0000suth_j5k3"
+  ],
+  "ol_edition_count": 22,
+  "ol_number_of_pages": null,
+  "is_series": true,
+  "series_name": {
+    "series": {
+      "key": "/series/OL335559L"
+    },
+    "position": "1"
+  },
+  "author_total_works": 84,
+  "author_birth_date": "31 July 1978",
+  "ol_subjects": [
+    "Dragons",
+    "Juvenile fiction",
+    "Prophecies",
+    "Fantasy",
+    "Fiction",
+    "Adventure and adventurers",
+    "Fantasy fiction",
+    "Friendship, fiction",
+    "Adventure and adventurers, fiction",
+    "Children's fiction"
+  ],
+  "ol_first_publish_year": 2012
+}

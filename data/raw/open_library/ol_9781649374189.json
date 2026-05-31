@@ -1,0 +1,39 @@
+{
+  "primary_isbn13": "9781649374189",
+  "ol_author_name": "Rebecca Yarros",
+  "ol_publisher": "Entangled: Red Tower Books",
+  "ol_languages": [
+    "dut",
+    "spa",
+    "ger",
+    "eng"
+  ],
+  "ol_ebook_access": "no_ebook",
+  "ol_has_fulltext": false,
+  "ol_public_scan": false,
+  "ol_internet_archive_ids": [],
+  "ol_edition_count": 12,
+  "ol_number_of_pages": 544,
+  "is_series": true,
+  "series_name": {
+    "series": {
+      "key": "/series/OL331363L"
+    },
+    "position": "3"
+  },
+  "author_total_works": 36,
+  "author_birth_date": "14 april 1981",
+  "ol_subjects": [
+    "American literature",
+    "Fiction, fantasy, epic",
+    "Fiction, fantasy, romance",
+    "Fiction, romance, fantasy",
+    "Serie:The_Empyrean",
+    "Onyx Storm",
+    "Rebecca Yarros",
+    "Onyx Storm Rebecca Yarros",
+    "Roman Empire",
+    "Books"
+  ],
+  "ol_first_publish_year": 2025
+}

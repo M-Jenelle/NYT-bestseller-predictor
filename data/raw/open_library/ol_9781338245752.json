@@ -1,0 +1,31 @@
+{
+  "primary_isbn13": "9781338245752",
+  "ol_author_name": "Alan Gratz",
+  "ol_publisher": "Scholastic, Incorporated",
+  "ol_languages": [
+    "eng"
+  ],
+  "ol_ebook_access": "no_ebook",
+  "ol_has_fulltext": false,
+  "ol_public_scan": false,
+  "ol_internet_archive_ids": [],
+  "ol_edition_count": 3,
+  "ol_number_of_pages": 336,
+  "is_series": false,
+  "series_name": null,
+  "author_total_works": 20,
+  "author_birth_date": "1972",
+  "ol_subjects": [
+    "nyt:childrens-middle-grade-hardcover=2021-02-21",
+    "New York Times bestseller",
+    "Children's fiction",
+    "Terrorism, fiction",
+    "New york (n.y.), history, fiction",
+    "Afghanistan, fiction",
+    "Survival, fiction",
+    "Adolescence, fiction",
+    "Girls, fiction",
+    "Boys, fiction"
+  ],
+  "ol_first_publish_year": 2021
+}

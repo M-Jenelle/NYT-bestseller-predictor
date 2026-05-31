@@ -1,0 +1,25 @@
+{
+  "primary_isbn13": "9781668003145",
+  "ol_author_name": "Janet Evanovich",
+  "ol_publisher": "Pocket Books",
+  "ol_languages": [
+    "eng"
+  ],
+  "ol_ebook_access": "no_ebook",
+  "ol_has_fulltext": false,
+  "ol_public_scan": false,
+  "ol_internet_archive_ids": [],
+  "ol_edition_count": 7,
+  "ol_number_of_pages": 400,
+  "is_series": true,
+  "series_name": {
+    "series": {
+      "key": "/series/OL330965L"
+    },
+    "position": "31"
+  },
+  "author_total_works": 100,
+  "author_birth_date": "22 Apr 1943",
+  "ol_subjects": [],
+  "ol_first_publish_year": 2024
+}

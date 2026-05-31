@@ -1,0 +1,43 @@
+{
+  "primary_isbn13": "9781338741049",
+  "ol_author_name": "Dav Pilkey",
+  "ol_publisher": "GRAPHIX",
+  "ol_languages": [
+    "fre",
+    "pol",
+    "gle",
+    "eng",
+    "spa"
+  ],
+  "ol_ebook_access": "borrowable",
+  "ol_has_fulltext": true,
+  "ol_public_scan": false,
+  "ol_internet_archive_ids": [
+    "superchien2decha0000pilk",
+    "dogmanunleashed0000pilk"
+  ],
+  "ol_edition_count": 24,
+  "ol_number_of_pages": 224,
+  "is_series": true,
+  "series_name": {
+    "series": {
+      "key": "/series/OL329664L"
+    },
+    "position": "2"
+  },
+  "author_total_works": 100,
+  "author_birth_date": "4 March 1966",
+  "ol_subjects": [
+    "Cartoons and comics",
+    "Police",
+    "Dogs",
+    "Comic books, strips",
+    "Children's fiction",
+    "Dogs, fiction",
+    "Cats, fiction",
+    "Police, fiction",
+    "Humorous stories",
+    "Adventure and adventurers, fiction"
+  ],
+  "ol_first_publish_year": 2016
+}

@@ -1,0 +1,36 @@
+{
+  "primary_isbn13": "9781538742570",
+  "ol_author_name": "Freida McFadden",
+  "ol_publisher": "Hatchette UK - Bookouture",
+  "ol_languages": [
+    "dut",
+    "spa",
+    "pol",
+    "eng",
+    "ger",
+    "por"
+  ],
+  "ol_ebook_access": "no_ebook",
+  "ol_has_fulltext": false,
+  "ol_public_scan": false,
+  "ol_internet_archive_ids": [],
+  "ol_edition_count": 17,
+  "ol_number_of_pages": 336,
+  "is_series": true,
+  "series_name": "Series:The-Housemaid",
+  "author_total_works": 49,
+  "author_birth_date": "1 May 1980",
+  "ol_subjects": [
+    "nyt:trade-fiction-paperback=2023-05-14",
+    "New York Times bestseller",
+    "Thriller",
+    "Mystery",
+    "Fiction",
+    "Mystery Thriller",
+    "Suspense",
+    "Crime",
+    "Psychological Thriller",
+    "Series:The-Housemaid"
+  ],
+  "ol_first_publish_year": 2022
+}

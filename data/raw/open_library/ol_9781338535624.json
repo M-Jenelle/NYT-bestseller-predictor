@@ -1,0 +1,39 @@
+{
+  "primary_isbn13": "9781338535624",
+  "ol_author_name": "Dav Pilkey",
+  "ol_publisher": "GRAPHIX",
+  "ol_languages": [
+    "eng",
+    "pol",
+    "cat",
+    "spa"
+  ],
+  "ol_ebook_access": "no_ebook",
+  "ol_has_fulltext": false,
+  "ol_public_scan": false,
+  "ol_internet_archive_ids": [],
+  "ol_edition_count": 22,
+  "ol_number_of_pages": 240,
+  "is_series": true,
+  "series_name": {
+    "series": {
+      "key": "/series/OL329664L"
+    },
+    "position": "9"
+  },
+  "author_total_works": 100,
+  "author_birth_date": "4 March 1966",
+  "ol_subjects": [
+    "Graphic novel",
+    "children's literature",
+    "humor",
+    "adventure",
+    "mystery",
+    "superhero",
+    "police",
+    "crime",
+    "friendship",
+    "family"
+  ],
+  "ol_first_publish_year": 2002
+}

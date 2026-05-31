@@ -1,0 +1,30 @@
+{
+  "primary_isbn13": "9780062370266",
+  "ol_author_name": "Wendy Holden",
+  "ol_publisher": "Harper Perennial",
+  "ol_languages": [
+    "eng"
+  ],
+  "ol_ebook_access": "printdisabled",
+  "ol_has_fulltext": true,
+  "ol_public_scan": false,
+  "ol_internet_archive_ids": [
+    "bornsurvivors0000hold"
+  ],
+  "ol_edition_count": 3,
+  "ol_number_of_pages": 400,
+  "is_series": false,
+  "series_name": null,
+  "author_total_works": 71,
+  "author_birth_date": null,
+  "ol_subjects": [
+    "Women, biography",
+    "Jewish women in the Holocaust",
+    "Auschwitz (Concentration camp)",
+    "Holocaust survivors",
+    "Holocaust, Jewish (1939-1945)",
+    "Personal narratives",
+    "Biography"
+  ],
+  "ol_first_publish_year": 2016
+}

@@ -1,0 +1,31 @@
+{
+  "primary_isbn13": "9781728296197",
+  "ol_author_name": "B.A. Paris",
+  "ol_publisher": "Poisoned Pen Press",
+  "ol_languages": [
+    "eng"
+  ],
+  "ol_ebook_access": "no_ebook",
+  "ol_has_fulltext": false,
+  "ol_public_scan": false,
+  "ol_internet_archive_ids": [],
+  "ol_edition_count": 6,
+  "ol_number_of_pages": 272,
+  "is_series": false,
+  "series_name": null,
+  "author_total_works": 14,
+  "author_birth_date": "1958",
+  "ol_subjects": [
+    "nyt:trade-fiction-paperback=2024-04-21",
+    "New York Times bestseller",
+    "Thriller",
+    "Mystery",
+    "Mystery Thriller",
+    "Fiction",
+    "Suspense",
+    "Horror",
+    "Psychological Thriller",
+    "Crime"
+  ],
+  "ol_first_publish_year": 2020
+}

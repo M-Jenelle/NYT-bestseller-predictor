@@ -1,0 +1,32 @@
+{
+  "primary_isbn13": "9781984880987",
+  "ol_author_name": "Richard Osman",
+  "ol_publisher": "Penguin Books",
+  "ol_languages": [
+    "eng",
+    "gre"
+  ],
+  "ol_ebook_access": "no_ebook",
+  "ol_has_fulltext": false,
+  "ol_public_scan": false,
+  "ol_internet_archive_ids": [],
+  "ol_edition_count": 10,
+  "ol_number_of_pages": 384,
+  "is_series": false,
+  "series_name": null,
+  "author_total_works": 52,
+  "author_birth_date": "November 28, 1970",
+  "ol_subjects": [
+    "Mystery",
+    "English literature",
+    "nyt:trade-fiction-paperback=2021-08-22",
+    "New York Times bestseller",
+    "Older people",
+    "Fiction",
+    "Murder",
+    "Investigation",
+    "Clubs",
+    "Book clubs (Discussion groups)"
+  ],
+  "ol_first_publish_year": 2020
+}

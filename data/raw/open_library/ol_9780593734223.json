@@ -1,0 +1,31 @@
+{
+  "primary_isbn13": "9780593734223",
+  "ol_author_name": "Yuval Noah Harari",
+  "ol_publisher": "Random House",
+  "ol_languages": [
+    "eng"
+  ],
+  "ol_ebook_access": "no_ebook",
+  "ol_has_fulltext": false,
+  "ol_public_scan": false,
+  "ol_internet_archive_ids": [],
+  "ol_edition_count": 4,
+  "ol_number_of_pages": 524,
+  "is_series": false,
+  "series_name": null,
+  "author_total_works": 55,
+  "author_birth_date": "1976",
+  "ol_subjects": [
+    "nyt:combined-print-and-e-book-nonfiction=2024-09-29",
+    "New York Times bestseller",
+    "Nonfiction",
+    "History",
+    "Science",
+    "Philosophy",
+    "Technology",
+    "Artificial Intelligence",
+    "Politics",
+    "Sociology"
+  ],
+  "ol_first_publish_year": 2024
+}

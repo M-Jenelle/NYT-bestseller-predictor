@@ -1,0 +1,39 @@
+{
+  "primary_isbn13": "9780593871522",
+  "ol_author_name": "Pierce Brown",
+  "ol_publisher": "Del Rey",
+  "ol_languages": [
+    "eng"
+  ],
+  "ol_ebook_access": "printdisabled",
+  "ol_has_fulltext": true,
+  "ol_public_scan": false,
+  "ol_internet_archive_ids": [
+    "redrisinglivre1f0000hlen",
+    "redrising0000brow_l7s1"
+  ],
+  "ol_edition_count": 26,
+  "ol_number_of_pages": 378,
+  "is_series": true,
+  "series_name": {
+    "series": {
+      "key": "/series/OL327572L"
+    },
+    "position": "1"
+  },
+  "author_total_works": 19,
+  "author_birth_date": "28 January 1988",
+  "ol_subjects": [
+    "franchise:Red Rising",
+    "series:Red Rising Trilogy",
+    "series:Red Rising Saga",
+    "form:novel",
+    "genre:science fiction",
+    "Fantasy",
+    "Fiction",
+    "Dystopia",
+    "Young Adult",
+    "Resistance to Government"
+  ],
+  "ol_first_publish_year": 2014
+}

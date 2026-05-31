@@ -1,0 +1,30 @@
+{
+  "primary_isbn13": "9780316477543",
+  "ol_author_name": "Tom O'Neill",
+  "ol_publisher": "Back Bay Books",
+  "ol_languages": [
+    "eng"
+  ],
+  "ol_ebook_access": "no_ebook",
+  "ol_has_fulltext": false,
+  "ol_public_scan": false,
+  "ol_internet_archive_ids": [],
+  "ol_edition_count": 8,
+  "ol_number_of_pages": 528,
+  "is_series": false,
+  "series_name": null,
+  "author_total_works": 1,
+  "author_birth_date": null,
+  "ol_subjects": [
+    "Murderers",
+    "Murder, california",
+    "Manson, charles, 1934-2017",
+    "Mass murder",
+    "United states, central intelligence agency",
+    "Legal ethics",
+    "Homicide investigation",
+    "nyt:paperback-nonfiction=2024-06-30",
+    "New York Times bestseller"
+  ],
+  "ol_first_publish_year": 2019
+}

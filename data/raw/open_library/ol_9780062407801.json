@@ -1,0 +1,34 @@
+{
+  "primary_isbn13": "9780062407801",
+  "ol_author_name": "Chris Voss",
+  "ol_publisher": "HarperBusiness",
+  "ol_languages": [
+    "eng"
+  ],
+  "ol_ebook_access": "borrowable",
+  "ol_has_fulltext": true,
+  "ol_public_scan": false,
+  "ol_internet_archive_ids": [
+    "fbitanpanxieshan0000voss",
+    "neversplitdiffer0000voss"
+  ],
+  "ol_edition_count": 10,
+  "ol_number_of_pages": 288,
+  "is_series": false,
+  "series_name": null,
+  "author_total_works": 18,
+  "author_birth_date": "1957",
+  "ol_subjects": [
+    "Negotiation",
+    "Negotiation in business",
+    "Business communication",
+    "Business",
+    "Communication",
+    "Psychology",
+    "Persuasion",
+    "Influence",
+    "Emotional intelligence",
+    "Hostage negotiation"
+  ],
+  "ol_first_publish_year": 2016
+}

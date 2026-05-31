@@ -1,0 +1,28 @@
+{
+  "primary_isbn13": "9780385546898",
+  "ol_author_name": "Dan Brown",
+  "ol_publisher": "Doubleday",
+  "ol_languages": [
+    "ger",
+    "eng",
+    "spa",
+    "dut"
+  ],
+  "ol_ebook_access": "no_ebook",
+  "ol_has_fulltext": false,
+  "ol_public_scan": false,
+  "ol_internet_archive_ids": [],
+  "ol_edition_count": 8,
+  "ol_number_of_pages": 680,
+  "is_series": false,
+  "series_name": null,
+  "author_total_works": 46,
+  "author_birth_date": "22 June 1964",
+  "ol_subjects": [
+    "Crime, fiction",
+    "Mysticism in literature",
+    "Thrillers",
+    "Fiction, thrillers, general"
+  ],
+  "ol_first_publish_year": 2025
+}

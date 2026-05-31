@@ -1,0 +1,36 @@
+{
+  "primary_isbn13": "9781488038679",
+  "ol_author_name": "Rachel Reid",
+  "ol_publisher": "Carina Press",
+  "ol_languages": [
+    "eng"
+  ],
+  "ol_ebook_access": "no_ebook",
+  "ol_has_fulltext": false,
+  "ol_public_scan": false,
+  "ol_internet_archive_ids": [],
+  "ol_edition_count": 5,
+  "ol_number_of_pages": 400,
+  "is_series": true,
+  "series_name": {
+    "series": {
+      "key": "/series/OL331100L"
+    },
+    "position": "1"
+  },
+  "author_total_works": 18,
+  "author_birth_date": "02 September 1980",
+  "ol_subjects": [
+    "Series:Game-Changers",
+    "LGTBI",
+    "Fiction, romance, contemporary",
+    "Romance",
+    "Sports Romance",
+    "Hockey",
+    "M M Romance",
+    "Sports",
+    "Contemporary",
+    "Queer"
+  ],
+  "ol_first_publish_year": 2018
+}

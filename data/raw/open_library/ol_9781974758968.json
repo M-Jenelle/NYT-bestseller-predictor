@@ -1,0 +1,31 @@
+{
+  "primary_isbn13": "9781974758968",
+  "ol_author_name": "\u5c3e\u7530\u6804\u4e00\u90ce",
+  "ol_publisher": "VIZ Media",
+  "ol_languages": [
+    "eng"
+  ],
+  "ol_ebook_access": "no_ebook",
+  "ol_has_fulltext": false,
+  "ol_public_scan": false,
+  "ol_internet_archive_ids": [],
+  "ol_edition_count": 4,
+  "ol_number_of_pages": 200,
+  "is_series": true,
+  "series_name": "series:ONE PIECE",
+  "author_total_works": 100,
+  "author_birth_date": "1 January 1975",
+  "ol_subjects": [
+    "franchise:ONE PIECE",
+    "series:ONE PIECE",
+    "form:manga",
+    "form:manga volume",
+    "form:graphic novel",
+    "genre:adventure",
+    "genre:comedy drama",
+    "genre:science fantasy",
+    "intended public:sh\u014dnen",
+    "universe:ONE PIECE"
+  ],
+  "ol_first_publish_year": 2024
+}

@@ -1,0 +1,41 @@
+{
+  "primary_isbn13": "9781635575583",
+  "ol_author_name": "Sarah J. Maas",
+  "ol_publisher": "Bloomsbury Publishing",
+  "ol_languages": [
+    "eng"
+  ],
+  "ol_ebook_access": "printdisabled",
+  "ol_has_fulltext": true,
+  "ol_public_scan": false,
+  "ol_internet_archive_ids": [
+    "courtofmistfury0000sara",
+    "courtofmistfury0000maas_c3x6",
+    "courtofmistfury0000maas_h3c1",
+    "courtofmistfury0000maas"
+  ],
+  "ol_edition_count": 28,
+  "ol_number_of_pages": 626,
+  "is_series": true,
+  "series_name": {
+    "series": {
+      "key": "/series/OL327003L"
+    },
+    "position": "2"
+  },
+  "author_total_works": 58,
+  "author_birth_date": "05 March 1986",
+  "ol_subjects": [
+    "Fantasy",
+    "Fiction",
+    "Fairies",
+    "Blessing and cursing",
+    "Fantasy fiction",
+    "Fairies, fiction",
+    "nyt:young-adult-hardcover=2016-05-22",
+    "New York Times bestseller",
+    "nyt:young-adult-e-book=2016-05-22",
+    "collectionID:TexChallenge2021"
+  ],
+  "ol_first_publish_year": 2014
+}

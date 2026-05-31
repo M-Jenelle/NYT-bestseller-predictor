@@ -1,0 +1,29 @@
+{
+  "primary_isbn13": "9781419713101",
+  "ol_author_name": "Jo Witek",
+  "ol_publisher": "Abrams",
+  "ol_languages": [
+    "eng"
+  ],
+  "ol_ebook_access": "printdisabled",
+  "ol_has_fulltext": true,
+  "ol_public_scan": false,
+  "ol_internet_archive_ids": [
+    "inmyheartbookoff0000wite"
+  ],
+  "ol_edition_count": 1,
+  "ol_number_of_pages": null,
+  "is_series": false,
+  "series_name": null,
+  "author_total_works": 5,
+  "author_birth_date": "1968",
+  "ol_subjects": [
+    "Emotions",
+    "Fiction",
+    "Children's fiction",
+    "Emotions, fiction",
+    "nyt:picture-books=2021-02-14",
+    "New York Times bestseller"
+  ],
+  "ol_first_publish_year": 2014
+}

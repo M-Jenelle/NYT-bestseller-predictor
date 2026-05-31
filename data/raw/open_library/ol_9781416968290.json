@@ -1,0 +1,39 @@
+{
+  "primary_isbn13": "9781416968290",
+  "ol_author_name": "Jenny Han",
+  "ol_publisher": "S&S Books for Young Readers",
+  "ol_languages": [
+    "eng"
+  ],
+  "ol_ebook_access": "printdisabled",
+  "ol_has_fulltext": true,
+  "ol_public_scan": false,
+  "ol_internet_archive_ids": [
+    "summeriturnedpre0000hanj",
+    "summeriturnedpre00jenn_0"
+  ],
+  "ol_edition_count": 26,
+  "ol_number_of_pages": 304,
+  "is_series": true,
+  "series_name": {
+    "series": {
+      "key": "/series/OL331001L"
+    },
+    "position": "1"
+  },
+  "author_total_works": 66,
+  "author_birth_date": "3 September 1980",
+  "ol_subjects": [
+    "Beaches",
+    "Coming of age",
+    "Fiction",
+    "Friendship",
+    "Interpersonal relations",
+    "Summer",
+    "Vacation homes",
+    "Teenage girls",
+    "Teenage boy/girl",
+    "Juvenile fiction"
+  ],
+  "ol_first_publish_year": 2000
+}

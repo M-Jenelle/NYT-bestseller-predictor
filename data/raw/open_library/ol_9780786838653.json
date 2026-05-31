@@ -1,0 +1,58 @@
+{
+  "primary_isbn13": "9780786838653",
+  "ol_author_name": "Rick Riordan",
+  "ol_publisher": "Disney-Hyperion Books",
+  "ol_languages": [
+    "eng"
+  ],
+  "ol_ebook_access": "borrowable",
+  "ol_has_fulltext": true,
+  "ol_public_scan": false,
+  "ol_internet_archive_ids": [
+    "boxijiekexunyush0000rior",
+    "percyjacksonligh0000unse",
+    "elladrondelrayo0000rior",
+    "percyjackson0000rior_d1w9",
+    "lightningthiefmo00rick",
+    "lightningthiefmo00rick_0",
+    "lightningthief0000rior_o4d7",
+    "lightningthief0000rior_u3l0",
+    "lightningthief0000rior_k1h1",
+    "percyjacksonligh0000rior_k2j9",
+    "lightningthief0000rior_p3w9",
+    "lightningthief0000rior_s6s5",
+    "percyjacksonligh0000rior",
+    "lightningthief0000rior_j7r4",
+    "lightningthief0000rior",
+    "lightningthief00rior_1",
+    "lightningthief0000rior_d6q1",
+    "lightningthiefpe00rick_0",
+    "lightningthiefpe00rick",
+    "lightningthief00rior",
+    "percyjacksondieb00rior"
+  ],
+  "ol_edition_count": 103,
+  "ol_number_of_pages": 416,
+  "is_series": true,
+  "series_name": {
+    "series": {
+      "key": "/series/OL327417L"
+    },
+    "position": "1"
+  },
+  "author_total_works": 100,
+  "author_birth_date": "5 Jun 1964",
+  "ol_subjects": [
+    "Serie:Percy_Jackson_and_the_Olympians",
+    "Fiction",
+    "Greek Mythology",
+    "Juvenile fiction",
+    "Camps",
+    "Friendship",
+    "Fantasy fiction",
+    "Fantasy",
+    "Young Adult Fiction",
+    "New York Times bestseller"
+  ],
+  "ol_first_publish_year": 2005
+}

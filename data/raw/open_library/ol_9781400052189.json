@@ -1,0 +1,37 @@
+{
+  "primary_isbn13": "9781400052189",
+  "ol_author_name": "Rebecca Skloot",
+  "ol_publisher": "Broadway Paperbacks",
+  "ol_languages": [
+    "eng"
+  ],
+  "ol_ebook_access": "borrowable",
+  "ol_has_fulltext": true,
+  "ol_public_scan": false,
+  "ol_internet_archive_ids": [
+    "immortallifeofhe0000sklo_q9r0",
+    "immortallifeofhe0000sklo",
+    "immortallifeofhe0000sklo_d9g5",
+    "unset0000unse_h0q7",
+    "immortallifehenr00sklo_125"
+  ],
+  "ol_edition_count": 25,
+  "ol_number_of_pages": 381,
+  "is_series": false,
+  "series_name": null,
+  "author_total_works": 7,
+  "author_birth_date": "19 Sep 1972",
+  "ol_subjects": [
+    "Cancer",
+    "Cell culture",
+    "Research",
+    "Patients",
+    "Health",
+    "HeLa cells",
+    "African American women",
+    "Medical ethics",
+    "Human experimentation in medicine",
+    "Biography"
+  ],
+  "ol_first_publish_year": 2009
+}

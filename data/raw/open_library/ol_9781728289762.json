@@ -1,0 +1,27 @@
+{
+  "primary_isbn13": "9781728289762",
+  "ol_author_name": "Ana Huang",
+  "ol_publisher": "Bloom Books",
+  "ol_languages": [
+    "eng"
+  ],
+  "ol_ebook_access": "no_ebook",
+  "ol_has_fulltext": false,
+  "ol_public_scan": false,
+  "ol_internet_archive_ids": [],
+  "ol_edition_count": 2,
+  "ol_number_of_pages": 528,
+  "is_series": true,
+  "series_name": {
+    "series": {
+      "key": "/series/OL327422L"
+    },
+    "position": "5"
+  },
+  "author_total_works": 27,
+  "author_birth_date": "7 March 1991",
+  "ol_subjects": [
+    "Serie:Kings_of_Sin"
+  ],
+  "ol_first_publish_year": 2025
+}

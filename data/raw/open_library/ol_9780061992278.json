@@ -1,0 +1,45 @@
+{
+  "primary_isbn13": "9780061992278",
+  "ol_author_name": "Katherine Applegate",
+  "ol_publisher": "HarperCollins",
+  "ol_languages": [
+    "pol",
+    "spa",
+    "por",
+    "chi",
+    "eng",
+    "kor"
+  ],
+  "ol_ebook_access": "printdisabled",
+  "ol_has_fulltext": true,
+  "ol_public_scan": false,
+  "ol_internet_archive_ids": [
+    "isbn_9780605527799",
+    "sesangetanhanapp0000appl",
+    "oneonlyivan0000appl_d8e0",
+    "oneonlyivan0000kath",
+    "oneonlyivanmovie0000kath",
+    "duyiwuerdeyifano0000appl",
+    "oneonlyivan0000appl",
+    "oneonlyivan0000appl_z2y5"
+  ],
+  "ol_edition_count": 35,
+  "ol_number_of_pages": 336,
+  "is_series": false,
+  "series_name": null,
+  "author_total_works": 100,
+  "author_birth_date": "1956-10-09",
+  "ol_subjects": [
+    "Animals",
+    "Elephants",
+    "Fiction",
+    "Gorilla",
+    "Treatment",
+    "Juvenile fiction",
+    "Circus animals",
+    "Circus",
+    "Animal welfare",
+    "Social Themes"
+  ],
+  "ol_first_publish_year": 2011
+}

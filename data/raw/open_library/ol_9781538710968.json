@@ -1,0 +1,25 @@
+{
+  "primary_isbn13": "9781538710968",
+  "ol_author_name": "James Patterson",
+  "ol_publisher": "Little Brown & Company",
+  "ol_languages": [
+    "eng"
+  ],
+  "ol_ebook_access": "no_ebook",
+  "ol_has_fulltext": false,
+  "ol_public_scan": false,
+  "ol_internet_archive_ids": [],
+  "ol_edition_count": 7,
+  "ol_number_of_pages": 464,
+  "is_series": false,
+  "series_name": null,
+  "author_total_works": 100,
+  "author_birth_date": "22 March 1947 Newburgh, Orange County",
+  "ol_subjects": [
+    "nyt:trade-fiction-paperback=2024-05-05",
+    "New York Times bestseller",
+    "nyt:combined-print-and-e-book-fiction=2024-05-05",
+    "American literature"
+  ],
+  "ol_first_publish_year": 2024
+}

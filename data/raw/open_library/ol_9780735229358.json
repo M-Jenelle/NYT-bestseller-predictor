@@ -1,0 +1,33 @@
+{
+  "primary_isbn13": "9780735229358",
+  "ol_author_name": "Cori Doerrfeld",
+  "ol_publisher": "Dial Books for Young Readers",
+  "ol_languages": [
+    "eng"
+  ],
+  "ol_ebook_access": "printdisabled",
+  "ol_has_fulltext": true,
+  "ol_public_scan": false,
+  "ol_internet_archive_ids": [
+    "rabbitlistened0000doer"
+  ],
+  "ol_edition_count": 10,
+  "ol_number_of_pages": 32,
+  "is_series": false,
+  "series_name": null,
+  "author_total_works": 36,
+  "author_birth_date": null,
+  "ol_subjects": [
+    "Children's Picture Books",
+    "Animals",
+    "Juvenile fiction",
+    "Rabbits",
+    "Listening",
+    "Children's fiction",
+    "Rabbits, fiction",
+    "Animals, fiction",
+    "nyt:picture-books=2021-03-21",
+    "New York Times bestseller"
+  ],
+  "ol_first_publish_year": 2018
+}

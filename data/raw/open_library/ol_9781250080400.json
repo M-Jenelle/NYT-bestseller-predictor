@@ -1,0 +1,42 @@
+{
+  "primary_isbn13": "9781250080400",
+  "ol_author_name": "Kristin Hannah",
+  "ol_publisher": "St. Martin's Griffin",
+  "ol_languages": [
+    "dut",
+    "eng",
+    "pol",
+    "spa"
+  ],
+  "ol_ebook_access": "borrowable",
+  "ol_has_fulltext": true,
+  "ol_public_scan": false,
+  "ol_internet_archive_ids": [
+    "ruiseorel0000kris",
+    "ruiseornightinga0000kris",
+    "nightingale0000kris_f8g0",
+    "nightingale0000hann_o9d9",
+    "nightingale0000unse_l2n4",
+    "elruisenor0000hann",
+    "nightingale0000hann_i0m8"
+  ],
+  "ol_edition_count": 42,
+  "ol_number_of_pages": 608,
+  "is_series": false,
+  "series_name": null,
+  "author_total_works": 100,
+  "author_birth_date": "1960",
+  "ol_subjects": [
+    "Civilians in war",
+    "Fiction",
+    "FICTION / Contemporary Women",
+    "World War (1939-1945) fast (OCoLC)fst01180924",
+    "Underground movements",
+    "Women in war",
+    "World War, 1939-1945",
+    "Sisters",
+    "History",
+    "Anti-Nazi movement"
+  ],
+  "ol_first_publish_year": 2000
+}

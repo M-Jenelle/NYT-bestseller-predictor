@@ -1,0 +1,32 @@
+{
+  "primary_isbn13": "9781250787651",
+  "ol_author_name": "Rashid Khalidi",
+  "ol_publisher": "Picador",
+  "ol_languages": [
+    "eng",
+    "spa"
+  ],
+  "ol_ebook_access": "no_ebook",
+  "ol_has_fulltext": false,
+  "ol_public_scan": false,
+  "ol_internet_archive_ids": [],
+  "ol_edition_count": 10,
+  "ol_number_of_pages": 336,
+  "is_series": false,
+  "series_name": null,
+  "author_total_works": 20,
+  "author_birth_date": "1948",
+  "ol_subjects": [
+    "Palestinian arabs",
+    "Palestine, history",
+    "Palestine, politics and government",
+    "nyt:paperback-nonfiction=2021-06-06",
+    "New York Times bestseller",
+    "New York Times reviewed",
+    "History",
+    "Politics and government",
+    "Wars",
+    "Peace"
+  ],
+  "ol_first_publish_year": 2020
+}

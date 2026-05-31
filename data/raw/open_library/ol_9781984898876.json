@@ -1,0 +1,42 @@
+{
+  "primary_isbn13": "9781984898876",
+  "ol_author_name": "Maggie O'Farrell",
+  "ol_publisher": "Vintage",
+  "ol_languages": [
+    "srp",
+    "eng",
+    "spa",
+    "ita",
+    "kor"
+  ],
+  "ol_ebook_access": "printdisabled",
+  "ol_has_fulltext": true,
+  "ol_public_scan": false,
+  "ol_internet_archive_ids": [
+    "isbn_9788823525696",
+    "isbn_9781472285522",
+    "isbn_9788954699860",
+    "isbn_9780525617174",
+    "isbn_9781472299765",
+    "hamnet0000ofar_p4z6"
+  ],
+  "ol_edition_count": 19,
+  "ol_number_of_pages": 320,
+  "is_series": false,
+  "series_name": null,
+  "author_total_works": 100,
+  "author_birth_date": "1972",
+  "ol_subjects": [
+    "English literature",
+    "Fiction, historical",
+    "Fiction, biographical",
+    "fiction",
+    "nyt:hardcover-fiction=2020-12-27",
+    "New York Times bestseller",
+    "New York Times reviewed",
+    "FICTION / Historical / General",
+    "Family",
+    "Families"
+  ],
+  "ol_first_publish_year": 2020
+}

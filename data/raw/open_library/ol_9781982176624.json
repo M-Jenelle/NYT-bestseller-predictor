@@ -1,0 +1,31 @@
+{
+  "primary_isbn13": "9781982176624",
+  "ol_author_name": "Adam Higginbotham",
+  "ol_publisher": "Avid Reader Press",
+  "ol_languages": [
+    "eng"
+  ],
+  "ol_ebook_access": "no_ebook",
+  "ol_has_fulltext": false,
+  "ol_public_scan": false,
+  "ol_internet_archive_ids": [],
+  "ol_edition_count": 8,
+  "ol_number_of_pages": null,
+  "is_series": false,
+  "series_name": null,
+  "author_total_works": 2,
+  "author_birth_date": null,
+  "ol_subjects": [
+    "nyt:combined-print-and-e-book-nonfiction=2024-06-02",
+    "New York Times bestseller",
+    "Challenger (Spacecraft)",
+    "Accidents",
+    "Space shuttles",
+    "Technology & Engineering",
+    "Aeronautics & Astronautics",
+    "History",
+    "Biography",
+    "Science & Technology"
+  ],
+  "ol_first_publish_year": 2024
+}

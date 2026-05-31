@@ -1,0 +1,24 @@
+{
+  "primary_isbn13": "9781668003190",
+  "ol_author_name": "Patric Gagne",
+  "ol_publisher": "Simon & Schuster",
+  "ol_languages": [
+    "eng"
+  ],
+  "ol_ebook_access": "no_ebook",
+  "ol_has_fulltext": false,
+  "ol_public_scan": false,
+  "ol_internet_archive_ids": [],
+  "ol_edition_count": 8,
+  "ol_number_of_pages": 368,
+  "is_series": false,
+  "series_name": null,
+  "author_total_works": 1,
+  "author_birth_date": null,
+  "ol_subjects": [
+    "Internal medicine",
+    "nyt:combined-print-and-e-book-nonfiction=2024-04-21",
+    "New York Times bestseller"
+  ],
+  "ol_first_publish_year": 2024
+}

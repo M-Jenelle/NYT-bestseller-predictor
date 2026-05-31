@@ -1,0 +1,37 @@
+{
+  "primary_isbn13": "9781616207465",
+  "ol_author_name": "Kelly Regan Barnhill",
+  "ol_publisher": "Algonquin Young Readers",
+  "ol_languages": [
+    "eng",
+    "pol",
+    "spa",
+    "cat"
+  ],
+  "ol_ebook_access": "printdisabled",
+  "ol_has_fulltext": true,
+  "ol_public_scan": false,
+  "ol_internet_archive_ids": [
+    "rbanms.24635.girlwhodrankmoon0000kell_x4k1",
+    "girlwhodrankmoon0000barn_p8h5"
+  ],
+  "ol_edition_count": 27,
+  "ol_number_of_pages": 400,
+  "is_series": false,
+  "series_name": null,
+  "author_total_works": 27,
+  "author_birth_date": "1973",
+  "ol_subjects": [
+    "Magic",
+    "Child sacrifice",
+    "JUVENILE FICTION / Family / Multigenerational",
+    "Juvenile fiction",
+    "Abandoned children",
+    "Fiction",
+    "Fantasy",
+    "Witches",
+    "Friendship in children",
+    "Friendship"
+  ],
+  "ol_first_publish_year": 2016
+}

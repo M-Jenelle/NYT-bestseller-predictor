@@ -1,0 +1,33 @@
+{
+  "primary_isbn13": "9781571313560",
+  "ol_author_name": "Robin Wall Kimmerer",
+  "ol_publisher": "Milkweed Editions",
+  "ol_languages": [
+    "eng"
+  ],
+  "ol_ebook_access": "printdisabled",
+  "ol_has_fulltext": true,
+  "ol_public_scan": false,
+  "ol_internet_archive_ids": [
+    "braidingsweetgra0000kimm"
+  ],
+  "ol_edition_count": 16,
+  "ol_number_of_pages": 408,
+  "is_series": false,
+  "series_name": null,
+  "author_total_works": 20,
+  "author_birth_date": "1953",
+  "ol_subjects": [
+    "Botany",
+    "Ecology",
+    "Potawatomi Indians",
+    "Indian philosophy",
+    "Philosophy of nature",
+    "Human-plant relationships",
+    "Effect of human beings on",
+    "Nature",
+    "Indigenous peoples",
+    "Philosophy"
+  ],
+  "ol_first_publish_year": 2013
+}

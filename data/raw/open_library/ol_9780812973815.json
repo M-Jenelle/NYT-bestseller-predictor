@@ -1,0 +1,36 @@
+{
+  "primary_isbn13": "9780812973815",
+  "ol_author_name": "Nassim Nicholas Taleb",
+  "ol_publisher": "Random House Trade Paperbacks",
+  "ol_languages": [
+    "eng"
+  ],
+  "ol_ebook_access": "printdisabled",
+  "ol_has_fulltext": true,
+  "ol_public_scan": false,
+  "ol_internet_archive_ids": [
+    "blackswan0000tale",
+    "blackswanimpacto00tale",
+    "blackswanimpacto0000tale",
+    "blackswanimpacth00tale_517"
+  ],
+  "ol_edition_count": 27,
+  "ol_number_of_pages": 444,
+  "is_series": false,
+  "series_name": null,
+  "author_total_works": 71,
+  "author_birth_date": "11 September 1960",
+  "ol_subjects": [
+    "Ereignis",
+    "nyt:paperback_nonfiction=2010-05-09",
+    "Pr\u00e9vision",
+    "New York Times bestseller",
+    "Business",
+    "Social aspects",
+    "Philosophy",
+    "Informationstheorie",
+    "Teoria da informa\u00e7\u00e3o (aspectos sociais)",
+    "Prognose"
+  ],
+  "ol_first_publish_year": 2005
+}

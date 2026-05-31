@@ -1,0 +1,25 @@
+{
+  "primary_isbn13": "9780062954541",
+  "ol_author_name": "Jory John",
+  "ol_publisher": "HarperCollins",
+  "ol_languages": [],
+  "ol_ebook_access": "no_ebook",
+  "ol_has_fulltext": false,
+  "ol_public_scan": false,
+  "ol_internet_archive_ids": [],
+  "ol_edition_count": 1,
+  "ol_number_of_pages": 32,
+  "is_series": false,
+  "series_name": null,
+  "author_total_works": 100,
+  "author_birth_date": null,
+  "ol_subjects": [
+    "nyt:picture-books=2021-08-15",
+    "New York Times bestseller",
+    "Children's fiction",
+    "Sunflowers, fiction",
+    "Halloween, fiction",
+    "Conduct of life, fiction"
+  ],
+  "ol_first_publish_year": 2021
+}
