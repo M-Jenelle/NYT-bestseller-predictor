@@ -7,3 +7,4 @@ joblib
 xgboost
 requests
 streamlit
+httpx2

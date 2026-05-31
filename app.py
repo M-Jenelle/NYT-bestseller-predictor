@@ -14,7 +14,10 @@ import requests
 import streamlit as st
 
 
-API_URL = os.getenv("API_URL", "http://127.0.0.1:8000").rstrip("/")
+API_URL = st.secrets.get(
+    "API_URL",
+    os.getenv("API_URL", "http://127.0.0.1:8000"),
+).rstrip("/")
 
 
 st.set_page_config(
@@ -128,6 +131,11 @@ with st.expander("How to use the predictor", expanded=True):
 with st.sidebar:
     st.header("API")
     st.write(f"`{API_URL}`")
+    if API_URL.startswith("http://127.0.0.1") or API_URL.startswith("http://localhost"):
+        st.warning(
+            "Using a local API URL. For Streamlit Cloud, set API_URL to the deployed "
+            "Cloud Run API URL in app secrets."
+        )
     if st.button("Check API health"):
         try:
             health = requests.get(f"{API_URL}/health", timeout=10).json()
@@ -241,8 +249,18 @@ with right:
         try:
             result = call_predict_api(payload)
         except requests.ConnectionError:
-            st.error("Could not connect to the prediction API. Start FastAPI and try again.")
-            st.code(".venv/bin/python -m uvicorn api:app --reload", language="bash")
+            st.error(f"Could not connect to the prediction API at `{API_URL}`.")
+            if API_URL.startswith("http://127.0.0.1") or API_URL.startswith("http://localhost"):
+                st.code(
+                    'API_URL = "https://nyt-bestseller-api-701318602800.us-west1.run.app"',
+                    language="toml",
+                )
+                st.write(
+                    "If this app is running on Streamlit Cloud, add the value above "
+                    "to the app secrets and reboot the app."
+                )
+            else:
+                st.write("Check that the deployed API is live and that the API_URL secret is correct.")
         except requests.HTTPError as error:
             detail = error.response.text if error.response is not None else str(error)
             st.error("The API returned an error.")

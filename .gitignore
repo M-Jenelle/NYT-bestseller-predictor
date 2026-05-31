@@ -18,5 +18,4 @@ RESTART_CHECKPOINT.md
 data/raw/google_books/
 
 # Local collector scratch/live tests
-test_ol_collector.py
 test_open_library_collector.py
