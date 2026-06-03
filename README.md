@@ -27,25 +27,34 @@ Install dependencies:
 pip install -r requirements.txt
 ```
 
-Run the Streamlit app locally against the deployed API:
+## Recommended Run Order
+
+For most users, the deployed API is already running, so only the Streamlit app needs to be started locally.
+
+Run the Streamlit app against the deployed API:
 
 ```bash
 API_URL=https://nyt-bestseller-api-701318602800.us-west1.run.app \
 .venv/bin/python -m streamlit run app.py
 ```
 
-To run both services locally, start the API first:
+If you want to run the full project locally, start the backend first and then the frontend:
+
+1. Start the FastAPI backend:
 
 ```bash
 .venv/bin/python -m uvicorn api:app --reload
 ```
 
-Then start the Streamlit app in a second terminal:
+2. Start the Streamlit frontend in a second terminal:
 
 ```bash
 API_URL=http://127.0.0.1:8000 \
 .venv/bin/python -m streamlit run app.py
 ```
+
+3. Open the Streamlit local URL shown in the terminal.
+4. Enter book information and submit the form to call the model API.
 
 Run API smoke tests:
 

@@ -364,8 +364,8 @@ class GoogleBooksCollector:
                 logging.warning(f"Not found: {title}")
 
         enriched_df = pd.DataFrame(enriched_books)
-        #enriched_df.to_csv("data/raw/nyt_google_enriched.csv", index=False)
-        enriched_df.to_csv("data/raw/nyt_google_enriched_v2.csv", index=False)
+        enriched_df.to_csv("data/raw/nyt_google_enriched.csv", index=False)
+
 
         # -----------------------------
         # Validation checks
