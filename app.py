@@ -1,18 +1,14 @@
-"""
-Streamlit interface for the NYT Bestseller Predictor.
 
-Run the API first:
-    .venv/bin/python -m uvicorn api:app --reload
-
-Then run this app:
-    .venv/bin/python -m streamlit run app.py
-"""
-
+import csv
 import os
+from datetime import datetime, timezone
+from pathlib import Path
 
 import requests
 import streamlit as st
 
+
+PREDICTION_LOG_PATH = Path("reports/app_predictions_log.csv")
 
 API_URL = st.secrets.get(
     "API_URL",
@@ -108,6 +104,47 @@ def call_model_info_api():
     return response.json()
 
 
+def save_prediction_log(payload, result):
+    """Append a successful prediction submission to a local CSV file."""
+    PREDICTION_LOG_PATH.parent.mkdir(parents=True, exist_ok=True)
+
+    row = {
+        "timestamp_utc": datetime.now(timezone.utc).isoformat(timespec="seconds"),
+        "title": payload.get("title") or "",
+        "author": payload.get("author") or "",
+        "publisher": payload.get("publisher") or "",
+        "original_publication_year": payload.get("ol_first_publish_year") or "",
+        "edition_publication_year": payload.get("publish_year") or "",
+        "page_count": payload.get("page_count") or "",
+        "number_of_editions": payload.get("ol_edition_count") or "",
+        "genres_or_subjects": "; ".join(payload.get("ol_subjects") or []),
+        "language": "; ".join(payload.get("ol_languages") or []),
+        "digital_availability": payload.get("ol_ebook_access") or "",
+        "bestseller_probability": result.get("bestseller_probability"),
+        "prediction": result.get("prediction"),
+        "label": result.get("label"),
+        "model_name": result.get("model_name"),
+        "api_url": API_URL,
+    }
+
+    file_exists = PREDICTION_LOG_PATH.exists()
+    with PREDICTION_LOG_PATH.open("a", newline="", encoding="utf-8") as log_file:
+        writer = csv.DictWriter(log_file, fieldnames=list(row.keys()))
+        if not file_exists:
+            writer.writeheader()
+        writer.writerow(row)
+
+
+def load_recent_prediction_logs(limit=10):
+    """Load recent prediction submissions for display in the sidebar."""
+    if not PREDICTION_LOG_PATH.exists():
+        return []
+
+    with PREDICTION_LOG_PATH.open("r", newline="", encoding="utf-8") as log_file:
+        rows = list(csv.DictReader(log_file))
+    return rows[-limit:]
+
+
 EBOOK_ACCESS_OPTIONS = {
     "No digital copy available": "no_ebook",
     "Borrowable digital copy": "borrowable",
@@ -151,6 +188,25 @@ with st.sidebar:
     except requests.RequestException:
         st.divider()
         st.warning("Start the FastAPI server to load model details.")
+
+    st.divider()
+    st.subheader("Submission Log")
+    recent_logs = load_recent_prediction_logs()
+    if recent_logs:
+        st.caption(f"Saved locally to `{PREDICTION_LOG_PATH}`")
+        st.dataframe(
+            recent_logs,
+            use_container_width=True,
+            hide_index=True,
+        )
+        st.download_button(
+            "Download CSV",
+            data=PREDICTION_LOG_PATH.read_text(encoding="utf-8"),
+            file_name="app_predictions_log.csv",
+            mime="text/csv",
+        )
+    else:
+        st.caption("No successful predictions logged yet.")
 
 
 left, right = st.columns([1.1, 0.9], gap="large")
@@ -268,6 +324,8 @@ with right:
         except requests.RequestException as error:
             st.error(f"Prediction request failed: {error}")
         else:
+            save_prediction_log(payload, result)
+
             probability = result["bestseller_probability"]
             label = result["label"].replace("_", " ").title()
 

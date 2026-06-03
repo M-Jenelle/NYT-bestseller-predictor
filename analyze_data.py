@@ -1,5 +1,5 @@
 """
-Deeper EDA for NYT + Google Books + Open Library feature design.
+Deeper EDA for NYT + Google Books + Open Library for feature design
 
 Inputs:
     data/raw/nyt_google_enriched.csv
@@ -12,15 +12,6 @@ Outputs:
     reports/eda_feature_design_summary.md
     reports/eda_outputs/*.csv
     figures/*.png
-
-Run:
-    python analyze_data.py
-
-Optional:
-    python analyze_data.py \
-        --nyt-google data/raw/nyt_google_enriched.csv \
-        --open-library data/raw/open_library_enriched.csv \
-        --negative-samples data/raw/negative_samples.csv
 """
 
 import argparse
@@ -1037,15 +1028,6 @@ def write_markdown_report(tables, merged, class_data):
 
     report = f"""# EDA Feature Design Summary
 
-## Goal
-
-This analysis combines the NYT + Google Books dataset with the Open Library enrichment dataset to understand which fields are useful for feature design before modeling bestseller performance.
-
-The main modeling target explored here is `nyt_weeks_on_list`. The script also creates helper target flags:
-
-- `long_run_26_weeks`: book stayed on the NYT list for at least 26 weeks
-- `long_run_52_weeks`: book stayed on the NYT list for at least 52 weeks
-- `above_median_weeks`: book stayed on the list at least as long as the median book
 
 ## Dataset Overview
 
@@ -1063,7 +1045,7 @@ The main modeling target explored here is `nyt_weeks_on_list`. The script also c
 
 {save_markdown_table(missingness.head(15))}
 
-Use fields with very high missingness carefully. For example, `average_rating` and `ratings_count` may look useful, but if most rows are missing them, they can create bias or reduce model coverage.
+
 
 ## Top Genres
 
@@ -1075,7 +1057,6 @@ Use fields with very high missingness carefully. For example, `average_rating` a
 
 ## Numeric Features Most Correlated with NYT Weeks on List
 
-This is an early screening step, not proof of causation.
 
 {save_markdown_table(correlations.head(15))}
 
@@ -1085,15 +1066,9 @@ This is an early screening step, not proof of causation.
 
 ## Bestseller vs Non-Bestseller Class EDA
 
-The negative samples from `data/raw/negative_samples.csv` are aligned with the NYT positives on shared fields before comparing coverage and distributions.
-
 Class balance:
 
 {save_markdown_table(class_balance)}
-
-- Positive NYT bestseller rows: **{positive_count:,}**
-- Negative non-bestseller rows: **{negative_count:,}**
-- Negative-to-positive ratio: **{negative_ratio:.2f}:1**
 
 Feature coverage comparison:
 
@@ -1103,32 +1078,8 @@ Shared numeric feature distribution summary:
 
 {save_markdown_table(distribution_summary, max_rows=30)}
 
-## Generated Figures
-
-- `figures/eda_01_missingness_top20.png`
-- `figures/eda_02_source_overlap.png`
-- `figures/eda_03_target_weeks_distribution.png`
-- `figures/eda_04_top_nyt_lists.png`
-- `figures/eda_05_top_google_genres.png`
-- `figures/eda_06_pub_month_genre_heatmap.png`
-- `figures/eda_07_numeric_feature_correlations.png`
-- `figures/eda_08_page_count_source_comparison.png`
-- `figures/eda_09_series_vs_weeks_boxplot.png`
-- `figures/eda_10_author_works_vs_weeks.png`
-- `figures/eda_11_long_run_rate_by_genre.png`
-- `figures/eda_12_edition_count_vs_weeks.png`
-- `figures/eda_13_class_balance.png`
-- `figures/eda_14_feature_coverage_by_class.png`
-- `figures/eda_15_shared_feature_distributions_by_class.png`
-
 ## Next Modeling Direction
 
-A good first modeling target is either:
-
-1. Regression: predict `nyt_weeks_on_list`
-2. Classification: predict `long_run_52_weeks` or `long_run_26_weeks`
-
-For a first pass, start with interpretable features like genre, NYT list name, page count, publication month, description length, series flag, author total works, and Open Library edition count. Then compare a simple baseline model against tree-based models.
 """
 
     report_path = REPORT_DIR / "eda_feature_design_summary.md"

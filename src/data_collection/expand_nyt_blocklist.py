@@ -1,4 +1,4 @@
-# expand_nyt_blocklist.py
+
 
 import requests
 import os

@@ -1,5 +1,3 @@
-# negative_sampler.py
-
 import re
 import unicodedata
 import requests

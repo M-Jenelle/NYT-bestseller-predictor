@@ -421,12 +421,6 @@ class GoogleBooksCollector:
         return enriched_df
 
 
-# if __name__ == "__main__":
-#     collector = GoogleBooksCollector()
-#     df = collector.collect_all()
-
-#     print(df.head())
-#     print(df.columns.tolist())
 
 if __name__ == "__main__":
     collector = GoogleBooksCollector()

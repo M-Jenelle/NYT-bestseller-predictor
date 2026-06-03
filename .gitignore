@@ -6,6 +6,7 @@ __pycache__/
 
 # Runtime logs and local build caches
 logs/
+reports/app_predictions_log.csv
 .pytest_cache/
 .mypy_cache/
 .ruff_cache/

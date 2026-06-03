@@ -2,99 +2,6 @@
 
 ## Overview
 
-This project builds a tool to help predict the NYT bestseller. 
-It builds a data collection pipeline that combines API integration and web scraping to gather book data. 
-
-
-
-Collecting data from The Movie Database (TMDB) API and scrape additional information from Letterboxd. Once the data is collected in a csv file, it is then used to analyze trends in the entertainment industry.
-
-## Goals
-- Practice API data collection
-- Build a data collection pipeline
-- Analyze book trends
-
-## Setup 
-
-### 1. Get TMDB API Key
-
-1. Create account at https://www.themoviedb.org/
-2. Go to Settings → API
-3. Request API key (free)
-4. Copy your API key
-
-### 2. Create .env File
-
-```bash
-# .env
-TMDB_API_KEY=your_api_key_here
-```
-
-### 3. Create Dependencies
-
-Create `requirements.txt`:
-```
-requests>=2.31.0
-beautifulsoup4>=4.12.0
-lxml>=4.9.0
-pandas>=2.0.0
-python-dotenv>=1.0.0
-matplotlib>=3.7.0
-seaborn>=0.12.0
-```
-
-Install with uv:
-```bash
-uv pip install -r requirements.txt
-```
-
-### 4. Run Pipeline
-
-python api_collector.py
-python web_scraper.py
-python data_processor.py
-python analyze_data.py
-
-
-## Data Sources
-
-Collect data for **at least 100 movies** including:
-
-**From TMDB API:**
-- Title, release date, runtime
-- Genres
-- Budget and revenue (for movies)
-- TMDB rating and vote count
-- Cast and crew (top 5)
-- Production companies
-- Original language
-
-**From Letterboxd (via scraping):**
-- Title, year, url
-- Rating
-- Number of fans
-
-
-## Ethical Considerations
-- Check robots.txt before scraping IMDb
-- Implement rate limiting (2+ seconds between requests)
-- Respect TMDB API rate limits (40 requests per 10 seconds)
-- Use public data only
-- No personal user data collected
-- Handle errors gracefully
-- Document all data sources
-
-## Known Limitations
-
-- Missing values
-- Limited sample size
-
----
-
-# Final Project Implementation: NYT Bestseller Predictor
-
-## Project Overview
-
 This project predicts the likelihood that a book could become a New York Times bestseller using book metadata collected from public APIs. The final application includes:
 
 - A Streamlit web app for users to enter book information
@@ -104,6 +11,47 @@ This project predicts the likelihood that a book could become a New York Times b
 - EDA, feature engineering, model comparison, and deployment artifacts
 
 The app is designed for an author, publisher, student, or reader who wants to estimate bestseller likelihood from information such as publisher, publication year, page count, edition count, subjects, language, and digital availability.
+
+## Local Setup
+
+Create and activate a virtual environment:
+
+```bash
+python -m venv .venv
+source .venv/bin/activate
+```
+
+Install dependencies:
+
+```bash
+pip install -r requirements.txt
+```
+
+Run the Streamlit app locally against the deployed API:
+
+```bash
+API_URL=https://nyt-bestseller-api-701318602800.us-west1.run.app \
+.venv/bin/python -m streamlit run app.py
+```
+
+To run both services locally, start the API first:
+
+```bash
+.venv/bin/python -m uvicorn api:app --reload
+```
+
+Then start the Streamlit app in a second terminal:
+
+```bash
+API_URL=http://127.0.0.1:8000 \
+.venv/bin/python -m streamlit run app.py
+```
+
+Run API smoke tests:
+
+```bash
+.venv/bin/python -m unittest test_api.py
+```
 
 ## Deployed Services
 
@@ -135,6 +83,39 @@ The dataset was built from public book metadata sources:
 
 Negative samples were collected from books that were not found on the NYT bestseller list. These examples were used so the model could learn the difference between likely bestseller and non-bestseller patterns.
 
+## Final Dataset
+
+The final processed dataset is stored at:
+
+```text
+data/processed/class_comparison_feature_design.csv
+```
+
+Final dataset characteristics:
+
+- Total books: 7,304
+- NYT bestsellers: 1,811
+- Non-bestsellers: 5,493
+- Class balance: about 1 bestseller to 3 non-bestsellers
+- Target variable: `is_bestseller`
+
+Final source columns:
+
+```text
+isbn13_clean
+title
+author
+publisher
+publish_year
+page_count
+ol_edition_count
+ol_subjects
+ol_ebook_access
+ol_languages
+ol_first_publish_year
+is_bestseller
+```
+
 ## Data Collection Pipeline
 
 Important scripts:
@@ -155,6 +136,21 @@ data/raw/open_library_enriched.csv
 data/raw/negative_samples.csv
 data/processed/class_comparison_feature_design.csv
 ```
+
+## Data Cleaning And Preprocessing
+
+Preprocessing included:
+
+- Cleaning and standardizing ISBN-13 values for matching
+- Merging metadata from NYT, Google Books, and Open Library sources
+- Removing duplicate records where possible
+- Converting publication years, page counts, and edition counts into numeric fields
+- Treating zero page counts as missing values
+- Preserving incomplete rows instead of dropping them
+- Creating missingness indicators for sparse metadata fields
+- Creating derived modeling features such as book age, publication gap, log page count, log edition count, subject count, and language count
+- Grouping high-cardinality fields such as publisher and author
+- Removing NYT-specific subject tags from Open Library data to reduce target leakage
 
 ## EDA And Feature Design
 
@@ -365,32 +361,16 @@ flowchart LR
     app --> streamlitcloud[Streamlit Community Cloud]
 ```
 
-To create or edit a Mermaid diagram, place a diagram inside Markdown like this:
-
-````markdown
-```mermaid
-flowchart LR
-    A[Data Sources] --> B[Data Collection]
-    B --> C[Model Training]
-    C --> D[FastAPI API]
-    D --> E[Streamlit App]
-```
-````
-
 ## AI Assistant Usage
 
 AI assistants were used during development for:
 
-- Brainstorming the project structure and deployment plan
 - Refactoring EDA code into reusable outputs
-- Designing positive vs negative feature coverage comparisons
 - Creating the feature engineering strategy for modeling
 - Implementing model comparison across logistic regression, random forest, gradient boosting, and XGBoost
 - Building the FastAPI prediction API
 - Building the Streamlit user interface
-- Creating Docker and Cloud Run deployment files
-- Debugging deployment issues such as `.gcloudignore`, Cloud Build image tags, and Docker context size
-- Improving user-facing app wording
+- Debugging deployment issues 
 
 Examples of useful prompts included:
 
@@ -398,7 +378,6 @@ Examples of useful prompts included:
 - "Create a modeling.py file with baseline, random forest, gradient boosting, and XGBoost comparison."
 - "Create a FastAPI prediction API that loads my saved model."
 - "Create a Streamlit app that calls the deployed API."
-- "Help me build a Dockerfile for Cloud Run deployment."
 
 AI-generated code was reviewed and modified for project-specific details, especially:
 
@@ -436,7 +415,13 @@ Run API smoke tests locally:
 - Some metadata fields are sparse, especially Open Library fields for NYT positives.
 - The negative sample set is useful for modeling but may not represent every type of non-bestseller book.
 - Publisher and subject metadata may introduce collection-source bias.
-- Future work could add SHAP explanations, richer text features from descriptions, better author-history features, and automated retraining.
+- Future work could add richer text features from descriptions, better author-history features, and automated retraining. In addition, address for any overfitting. 
+
+## Lessons Learned
+
+This project showed that data quality and feature design are just as important as model choice. A large part of the work involved collecting reliable metadata, handling missing fields, and making sure the model did not learn from leaked NYT-specific labels. I also learned that deployment is a separate engineering step from modeling: the model needed a FastAPI service, Docker container, Cloud Run deployment, and a Streamlit frontend that could call the deployed API.
+
+Future improvements could include better probability calibration, individual prediction explanations with SHAP, a database-backed submission log, more recent data, larger negative samples, and automated CI/CD deployment from GitHub.
 
 ## Repository Map
 

@@ -1,6 +1,4 @@
 """
-FastAPI model-serving API for NYT bestseller likelihood predictions.
-
 Run locally:
     .venv/bin/python -m uvicorn api:app --reload
 
