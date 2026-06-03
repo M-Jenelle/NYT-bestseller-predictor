@@ -448,3 +448,7 @@ cloudbuild.yaml                 Google Cloud Build configuration
 requirements.txt                App/local dependencies
 requirements-api.txt            API container dependencies
 ```
+
+## Insightful Links:
+https://www.nytimes.com/books/best-sellers/methodology/
+https://www.vox.com/culture/2017/9/13/16257084/bestseller-lists-explained
